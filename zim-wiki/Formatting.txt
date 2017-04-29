@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-04-28T19:54:45-07:00
+
+====== Formatting ======
+This page contains examples of the various formatting options supporting by Zim.
+
+===== Sub-headings =====
+
+==== Heading 3 ====
+
+=== Heading 4 ===
+
+== Heading 5 ==
+
+===== Text =====
+文字
+**Strong**
+//Emphasis//
+__Mark__
+~~Strike~~
+[[Formatting|Link Text]]
+^{Superscript}
+_{Subscript}
+
+===== Lists =====
+
+==== Unordered ====
+* Bullet
+* Bullet
+
+==== Ordered ====
+1. Number
+2. Number
+
+===== Other =====
+
+==== Tables ====
+| Left | Right | Center | Autowrap<|
+|:-----|------:|:------:|:---------|
+| a\|b |     c |   d    | e        |
+
+※Do not include a table as the last item on a page, nor place non-table text immediately after it. It causes it to display incorrectly.
+
+==== Checkboxes ====
+[ ] Empty
+[*] Check
+[x] Cross
