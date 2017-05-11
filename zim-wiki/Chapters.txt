@@ -1,0 +1,2209 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-10T22:37:59-07:00
+
+====== Chapters ======
+
+===== Book 1 (第一巻) =====
+
+==== Chapter 1: Coming of Age (第一章「成人」) ====
+
+=== Session 1 ===
+* [[Characters:Luna|Luna]] and [[Characters:Kira|Kira]] help out around [[Locations:Sinobi|Sinobi]]
+* [[Characters:Melkos|Melkos]] tells them [[Characters:Lauren|Ren]] was seeking them out for a mysterious reason
+* Luna and Kira meet with Ren, who wants to head west across the [[Locations:Arctus River|Arctus River]]
+* Luna summons the spirit of the Arctus River to locate a crossing
+* The party makes it across the rapids
+* Ren shows Kira tracks of a bull [[saurgon]] he found nearby
+* Party goes to the ruins
+* Mysterious message cardinal directions NSWNWSWNE
+* Followed directions through illusion to courtyard hidden in ruins
+* Pillars near temple decorated with figures that seem to correspond to fire, water, earth, and wind
+* Encountered bull saurgon in the temple
+* Solved invisible wall puzzle
+* Solved sliding pillar puzzle
+* Found [[Items:Arnaundus, the Spirit Coil|magic sword]] left by [[Characters:Malcolm|the stranger from 3 years ago]]
+* Returned to Sinobi
+* Melkos sent Luna and Kira north to Edinbough to discover the truth behind the sudden appearance of hellish knights
+* Invited Ren to come along
+
+==== Chapter 2: Chosen One (第ニ章「選ばれし者」) ====
+
+=== Session 2 ===
+* Heading north to Edinbough through the forest
+* Discover destroyed cart heading from Sinobi to [[Locations:Edinbough|Edinbough]]
+* Kira discerns in spite of himself that it is Yarl's cart
+* Yarl appears, and hurries us off the path
+* They were attacked by a [[vennock]] (kind of dargon)
+* Agree to look for Yarlson and their ox
+* Found Yarlson leading a band of monkeys that stole things
+* Intimidated him into going back to his family
+* Searched for ox and chased after it
+* Ren and Kira subdue the ox
+* Find the wheel, return everything to the family
+* Received [[Items:Miracle Powder|Miracle Powder]]
+* Attacked by the vennock
+* Kira suffers injuries, and feels the power of the sword gathering mana, but doesn't use it
+* The sword glows an eerie crimson while Kira is unconscious
+* Climb mountains, take shelter from snowstorm
+* Reach Edinbough
+
+=== Session 3 ===
+* Edinbough is in the midst of their winter festival
+* Kira impresses everyone with the tale of collecting the ancient blade
+* Ask about the hellish knights
+* The creatures haven't quite gotten this far (Edinbough)
+* Otherworldly creatures from the north wearing black cloaks and wicked blades
+* Went to Micah's house to ask for for info
+* Spoke with miner Atticus, who encountered the warriors near the logging camp on the way to the mines
+* Went to festival and had a snowball fight with Ren
+* Acquired some glass bead accessories as a sign of friendship between Kira, Luna and Ren
+* Left town and Anna ran out after Kira
+
+=== Session 4 ===
+* Traveled through the mountains
+* Encountered the hell knights
+* One had a magic pendant with some kind of illusory magic
+* Luna identified it and Ren works his tricks to get it out of the area
+* Revealed knights as ordinary soldiers from the northern kingdom of [[Locations:Andeland|Andeland]]
+* Princess Esmerelda there had sent the soldiers on a journey to find Kira by the sword
+* Ren goes back to Edinbough, then to Sinobi to report, then intends to return
+* Ren and Luna agree to head to Andeland
+* Find cave, John (knight) is able to lead us through and back
+* Mana becomes distorted as we approach the castle
+* Enter a dungeon (castle proper) and the mana disappears
+* Encounter Princess Esmerelda, who immediately hits on Kira
+* Kira and Luna go into a fancy bedroom
+* Esme chases Luna out
+* Kira goes to sleep with Luna in one of the crappy rooms
+
+==== Chapter 3: Dust (第三章「塵」) ====
+
+=== Session 5 ===
+* Go talk to Ezme
+* Ezme has a corrupt mana aura
+* Ate food and exited to castle surrounds
+* The place looks rather dreary
+* Horse was walking at crosswords, slowly
+* Ezme hurried it along with magic
+* Chased after horse, it appeared to have its leg healed
+* Ezme indirectly denied doing anything to help the animal (つんつんじゃない…)
+* Traveled through large graveyard area, Luna became dispaired at the sight
+* Reached small town, Ezme explained she wants to release the Source
+* If Kira kills enemies with the Spirit Coil, it will gain power
+* Head first to the coast and cross the inland sea
+* Magic spectral fires are eaten by normal fire
+* Ezme brought extra bedrolls
+* Kira wakes up in Sinobi (a dream!?)
+* Exits into castle quarters, senses something in Ezme's room
+* Ezme is there, asleep
+* Summons Luna via magic into Kira's mind
+* Ezme has these painted porcelain dolls, gifts from her mother
+* Her mother resented her father for what he did to Malcolm and for having Ezme learn magic
+* Traveled further into old ancient battlefields
+* Cloaked figure hires "Handy Joe" of the Ash Bandits to capture Ezme and the Spirit Coil
+* Another cloaked figure (Ezme herself) tells "Handy Joe" of Ezme/Arnaundus' location
+* Go to a hot spring while Ezme leaves to collect stuff
+* Ezme comes back with a [[Ash Wyrm]] and supplies
+* Headed into the Badlands
+* Figures watching from behind as we ride through the Badlands
+
+=== Session 6 ===
+* Heading through Badlands
+* Aiming to cut through ravines and get to Yolan's Crossing
+* Ambushed by pair of ash bandits
+* They tried to catch Ezme and the Spirit Coil, but we were able to defeat them
+* Drove wyrms careening off cliff edge (whoops?)
+* Wake up in manufacturing plant?
+* Bandits still sneaking around looking for the party
+* Find a generator powered by electricity
+* Building is for recharging high-class magitech weapons
+* Infantry-grade magitech weapons (mana catalysts) - reduce complexity of casting spells
+* During the war, Prince Malcolm used the Spirit Coil to annihilate the entire enemy force in Andeland
+* Spirit in the machine asks us to free it
+* Destroy the amethyst and she escapes, invite her to come with us
+* Meet up with Ezme, who was whispering to someone outside of the building
+* Escaped the building eventually
+* Look for somewhere to make camp
+* Spirit lady left going south at Ezme's recommendation to seek out the Valley of God
+* Travelling north, arrive at barricade
+* Encounter Handy Joe
+* Beat him up and his guys ran away; Handy Joe surrendered and said "There's someone much worse than me ahead くくく"
+
+==== Chapter 4: Ghosts (第四章「遺物」) ====
+
+=== Session 7 ===
+* Approaching Yolan's Crossing
+* Being watched by cloaked man, same guy who spoke to Handy Joe
+* Trapped soul of Handy Joe in gem
+* He has a magic teleporting device
+* Yolan's Crossing is not doing well
+* Talked to guy that wouldn't shut up
+* Ezme goes to a building called "Buck's Place"
+* Hurk: bartender, Bruick: lady merc, Sten: young doctor
+* No one has been able to get to Newport
+* Town on the way called Raust is haunted, no one got through it
+* Bruick said if we figure out how to get through, we should tell her
+* Ezme gave Kira a handjob, Kira gave Ezme a "massage"
+* Luna talked with Sten about various things (flirting?)
+* Stormwrought (a former naval base), port off to the west, connects to the sea
+* Kira went downstairs, collected food, Ezme paid for the rooms/stuff with far too much money
+* Kira/Ezme talked about Ezme's hobbies which apparently are tormenting various people
+* Bruick came up and invited Kira to come down to the party
+* Bruick/Sten left, Kira/Luna returned to the room
+* Everyone went to sleep
+* Ezme snuck out while Luna/Kira were asleep, took Arnaundus with her
+* Ezme encountered Bruick outside, Bruick insulted Ezme a bit
+* Twin headed serpent revealed itself and surprised Bruick
+* Serpent thing got absorbed by Arnaundus
+* Kira fed Ezme food, then went and got water
+* Ezme/Luna talked about stuff, Ezme got more evilness
+* Ezme/Kira went to get hunting knife stuff, Ezme asked Kira if he would kill someone for sex, Kira refused
+* Went to Raust, atmosphere of evilness/stuff
+
+=== Session 8 ===
+* Walked around town, mansion at every exit
+* Eventually entered mansion, door vanished
+* Ezme apologized to Kira
+* Went left to parlor with piano and cake (someone wrote "The cake[-]")
+* Up into hallway
+* Room on right with clothing & laundry & fetish maid outfit
+* Up to see portrait of noble guy, heard piano through the floor
+* Right into servant's bathing room - black water with lots of corrupt mana, heard baby crying in adjacent room
+* Up into some kind of dining hall
+* Right into hallway
+* Down into library area, Kira takes a world map
+* Back to hall, right into small bedroom - wardrobe with engraving "the kings doll is now a cilonian whore ashes to ashes dust to dust"
+* Back to hall, up to several doors
+* Left had a small bedroom with black rose
+* Right led back to the parlor, piano looks used, cake is it was
+* A pillar with a bust of a nobleman has appeared
+* Statue comes to like and shouts at us to leave
+* Back in hall, up goes to a staircase down
+* Cold room for meat storage - hear footsteps and activity above
+* Back to parlor the  long way, bust doesn't exist
+* Ezme collects cake on her staff, tries to feed Kira
+* Right door in entryway leads back to dining hall
+* Right door behind entryway stairs
+* Eventually found door to library, Luna collected book about fauna
+* Luna and Ezme think Kira smells like the strawberry cake
+* Go into attic, tall room with same bust from parlor
+* Summoned guy from bust, spirit of someone who hates Cilonia
+* Spun bust around and pointed it away from the mirror
+* Able to get past bust in parlor and into "another" set of manor rooms
+* Find a new kid's bedroom, has doll
+* Strange room with many paintings, hangman's noose with cultist
+* Found another bust in basement, used it to get past dining hall prime
+* Found new room that looks like some kind of study with various mechanisms
+* On the desk is [[Items:Ashurn, the Master Key|Ashurn, the Master Key]]with notes about its purpose
+* Made by the same guy who created Arnandus
+* Usable to store spell mana as æther that can be used later
+* Started using glove to pull apart the illusion magic
+* Went upstairs to confront ghost of Becmi Raavenvall
+* Able to convince him not to fight, but he wasn't trying to kill us anyway
+* He agreed to release the illusion surrounding Raust
+* Convinced Ezme to return to Yolan's Crossing to tell them the way is open
+
+==== Chapter 5: Avast! (第五章「アヴァスト！」) ====
+
+=== Session 9 ===
+* Months ago:
+* Raining around Castle Andegrist, which is super rare
+* [[Characters:Dimitri|Dimitri]] approaches castle gates when a shadowy figure approaches
+* Offers materia, infuses Dimitri with a strange feeling
+* Weird comment about living your life for those who have lost them
+* Figure departs, and becomes strange amorphous darkness that disappears into the night
+* Week(s) ago:
+* [[Characters:Ashling Lovelle|Ashling]] in the garden, or what went for a garden
+* Received letter from Ezme saying she left
+* Brilliant rose plant magically grows out of the ground
+* Bird alights and starts being a dick
+* Yōkai lady approaches, offers to give power to Ashling
+* Later:
+* Ashling walking around the castle
+* Dimitri makes illusion of Ezme
+* Ashling prepares to deliver a beat down to Dimitri
+* Eventually they depart together
+* Approximately present time:
+* Luna and Kira return to Yolan's Crossing, go to inn
+* Dimitri and Ashling arrived through the forest at the inn
+* Ashling tries to go see Ezme
+* Dimitri accosts Luna
+* Kira takes Ashling to see Ezme against Luna's request
+* Dimitri re-accosts Luna
+* Ashling wants to come with Ezme, but Ezme doesn't want her to come
+* Ezme eventually gives up
+* Bruic appears and Dimitri charismas her
+* Luna tells Bruic that the haunted town is now cleared, and she departed
+* Ashling returns and announces she is coming with the party
+* Dimitri privately asks Ashling to help him find [[Characters:Ariel|Ariel]]
+* She agrees, so long as no one else is let in on things
+* Dimitri reluctantly agrees, and Ashling tells him Ariel is with the Prince
+* Bruic and Ashling get into a fight
+* Eventually it is broken up, Bruic departs
+* Ashling and Ezme go upstairs to catch up on things
+* Dimitri takes Luna out shopping for shinies
+
+=== Session 10 ===
+* Ezme tells people to keep or be killed
+* Dimitri gets a tent
+* Luna find some herbs
+* At port, some mercs attacking a girl
+* Ezme casts a spell on the leader, the leader stabs the girl
+* Kira sees a mysterious (spirit?) lady in pink who wants to him to use the Spirit Coil
+* Luna is able to save the girl Emily's life
+* Party eventually decides to try to do something about the mercs
+* Dimitri takes care of it
+* Mercs agree to act as official protectors of town in exchange for pay from trading, etc.
+
+=== Session 11 ===
+* Kira and Dimitri go to look for pinky
+* Luna and Sten looking at plants
+* Luna looks at the cursed water, metallic smell + irritates the skin
+* Research whether boiling the cursed water could separate the contaminants
+* Kira & Dimitri head to docks to talk to a lady
+* Catgirl wannabe Robin dives on Kira and tries to eat him
+* She can talk
+* Doesn't know anything, but there are rumors about horned spirit in the deserts to the north
+* Luna and Sten get things together to try to boil the cursed water
+* Boiling the water works well enough to make it drinkable
+* Minute green stuff in the water, no idea what it is
+* Kira and Dimitri look for a ship
+* Dimitri convinces a captain to work with them tomorrow
+* Kira pokes Ezme to see what's wrong, she denies everything is wrong
+* Dimitri explains romantic techniques to Kira
+* Ashling tries to make Ezme drink a bunch of a wine, and denies she is trying to get her drunk
+* Dimitri makes Kira an illusion of Ezme to "practice" with
+* Ezme walks in and it is not happy
+* Ashling also shows up
+* Ezme leaves, Ashling leaves, both pretty depressed
+* Ashling meets catgirl and supercleans her house
+
+=== Session 12 ===
+* Go find Captain Markeen to see what is needed (ship "The Dancing Man")
+* Bruic wants to bring some additional people we traveled with along
+* Dimitri negotiates with the captain about cargo, people, etc.
+* Kira talks to Ezme about relationship and spirits
+* Luna and Ashling have a discussion about plants and murder
+* Dimitri looks for Henrici, who appears to have disappeared
+* "Happy Charlie" in command now
+* Dimitri works to negotiate goods, peasants, etc. so he can make some money
+* Henrici pays to get on the ship
+* Dimitri starts a fight, and the captain decides not to take Henrici
+* We set sail
+* Dimitri shows a cat illusion to Luna
+* Luna shows the Master Key to Dimitri
+* UFO approaching from the direction of Andeland
+* Is a Cilonian frigate
+* Spear of Justice attacks!
+* ...and he sinks the damn ship
+
+==== Chapter 6: Odyssey (第六章「<ruby>大冒険<rp>（</rp><rt>オデッセイ</rt><rp>）</rp></ruby>」) ====
+
+=== Session 13 ===
+* Ship destroyed by storm
+* Kira rescuing Ezme
+* Tries to rescue Mengqi
+* But falls unconscious
+* Scylla? disappears the bodies...
+* Charybdis? alights on the sinking ship
+* Later...
+* Ashling awakes on a beach, with rest of party
+* She immediately goes to try to kill Mengqi
+* Ezme stops her
+* Dimitri finds his chest of bullion
+* Mengqi is conscripted to take us to Cilonia, so we head inland through the wilderness
+* Enter into weird jungle
+* Ashling arrives with fish
+* Living things in the jungle are all tainted with corrupted mana
+* But the water is all filled with pure mana
+* Heading sort of towards the source of the water
+* As night falls, arrive at cliff face
+* Climb up
+* Dimitri gropes Luna
+* Then rest
+* Continue traveling, eventually reach a rocky ridge that borders a rainforest
+* Trees are fairly sparse but also have fungus
+* Come to large river
+* Ezme, Luna, Ashling go to bathe in a nearby pond
+* Altair takes Dimitri to "train"
+* Dimitri uses illusions to get Altair to go to the pond
+* Ashling refuses to bathe with Ezme and Luna
+* Dimitri and Altair get attacked by a plant near the pond
+* Ashling and Kira beat the crap out of it
+* Kept traveling and saw smoke indicating a possible of village
+
+=== Session 14 ===
+
+=== Session 15 ===
+* Escaped from the Beast
+* Talked to freed lady, told us about Undine etc.
+* Saved people from town
+
+== Chapter 7: Wake (第七章「ウェイク」) ==
+
+=== Session 16 ===
+* Escaped with people, planned to head to the shrine of water?
+* Many beastmen returning to town to look for escape slaves
+* Approached spire of shrine
+* Encountered goatmen + goatman sorcerer in tunnel
+* Knocked some out
+* Continued across bridges by massive waterfall
+* Encountered lizardmen
+* Ezme made them jump off the bridge after they surrendered
+* Used key from beastman sorcerer to open silver door
+* Enter dark room
+* Found room with sort of giant revolving door construction
+* Pushed once, went up to room above
+* Has passage, but it is rotated wrong
+* Kira gropes his way back and turns the room, is nearly assaulted by water
+* Cylinder bridge up at party is rotated so they can try to pass
+
+=== Session 17 ===
+* Went across the pipe, seems to be the way to go
+* Go back and go left, looks like receiving room to a drawbridge somewhere
+* Go back to revolving room
+* Push, reach room with rushing water
+* Push, find passageway up to chest and stopper for pipe
+* Get Water of Life + 4 Water Crystals from chest
+* Capped the pipe, then crossed it
+* Traveled to mirror room, shadows of Altair, Kira, Luna, and Dimitri appear
+* Absorbed two shadows with Ashurn
+* Ashling destroys mirrors to take out the others
+* Solve puzzle and get to main tower again
+* Find Undine, trapped by evil earth vines
+* Venidi appears and attacks
+* Luna and Dimitri save Undine
+* Venidi is defeated
+* Undine blessed Arnandus
+* Undine says we can bless Ashurn at a water crystal below the shrine that we can reach with Arnandus
+
+=== Session 18 ===
+* Blessed Ashurn to absorb water mana
+* Made pact with Undine, "Maiden of the Mist"
+* Traveled through caves
+* Ran from giant enemy crab
+* Reached Cilonian territory
+* Altair tried to arrest the party
+* Party convinced Altair to retire
+
+== Chapter 8: Apocalypse (第八章「黙示録」) ==
+
+=== Session 19 ===
+* Magus ??? talking with Altair about Ezme & co.
+* Talked to a goat herder; he told us to the east there was a swamp that was cursed, beyond that is a fortress
+* Went to a village, Luna traded some medicine for food
+* Kira/Dimitri went to a flower field with Figo, Dimitri/Figo went off to have a duel, Kira looked for flowers
+* Kira gave Ezme a bouquet, Ezme put a flower in Ashling's hair
+* Dimitri showed up Figo with a love song and impressed Luna
+* Dimitri got a present from one of the ladies in the hamlet
+* Had some flashbacks at the camp
+* Ezme born prematurely, King doesn't give a shit, Queen gets the doctor to do whatever is necessary
+* Ezme studying really hard, Ashling tries to get her to come out and play but Ezme refuses
+* Ezme always had to focus on emotions like hate in order to cast her magic
+* Ezme/Ashling's mothers talking with each other, say Ezme is just going through a phase
+* Ashling's mom died from an infection that was caused by an injury that her father dealt her
+* Ezme's mom took Ashling in and made her maid
+* Ezme/Malcolm dueling, Ezme super annoyed that Malcolm won't fight to kill her
+* Got over to the swamp, there were tons of wrecked warships from Andelin and the remains of their camps from the invasion
+
+=== Session 20 ===
+* FLashback from Malcolm's PoV
+* Talking with Ezme before leaving to war
+* Kisses her farewell, then appears to be stabbing her
+* Arnandus shatters
+* Malcolm awakes on a ship, sailing to Cilonia
+* With Arnandus, he had crushed the Cilonian capital ship and their fleet on the inland sea with Blasting Zone
+* Party marching through marshlands, remains of war all around
+* Dimitri looks for clues about Auriel
+* Malcolm in the swamps, separated from the army
+* Joe saves him, then Hanada appears
+* Hanada beats Malcolm up
+* Auriel appears, knocks Hanada off balance, Malcolm capitalizes and overpowers Hanada with Fated Circle
+* Party gets out of marsh, sees town nearby
+* Band of scout people nearby, Dimitri Luna Ashling go to spy on them
+* Dimitri convinces them we are harmless
+* They are looking for Ezme and Kira
+* River to the east is the Vasenic River, fortress is on the river is Vasenica
+* Magus is the spymaster
+* Town is abandoned
+* Dimitri finds map, currency
+* Random sudden explosion of Kira and Ezme's building
+* DLA wisely gtfo
+* Ezme and Kira take lots of crossbow bolts from Magus's archers
+* Kira unleashed Arnandus's power, killing the attackers
+* Magus watches the destruction, and is ambushed by Auriel's flame lance
+* Magus makes his escape
+
+== Chapter 9: All-Seeing Eye (第九章「全能の眼」) ==
+
+=== Session 21 ===
+* ADL escape town
+* Malcolm accosts Dimitri and directs him and the party to a cottage
+* Kira Ezme are there, severely injured
+* Luna is able to keep them alive
+* Kira talking to Mea in the spectral realm between dream and reality, mind and matter
+* Malcolm visits Dimitri again and tells him to cross the river and meet with his allies (la résistance?)
+* Ashling discovers Malcolm, who refuses to say anything about Auriel before disappearing
+* Kira awakens, and the party plans their next move
+* Ezme wants to search the hills to the north for the Raven's Den, a tomb with artifacts of power
+* The Kingmaker, a scepter that turns a pauper to a prince
+* Undine's Tear, that makes the wearer invisible
+* The All-Seeing Eye, a silver tiara that grants the wearer dominion over the hearts of men
+
+=== Session 22 ===
+* Ashling is sent away to investigate the fort while the party heads to Raven's Den
+* Looking for island in marshlands with entrance into tomb
+* Ambushed by croctaurs
+* We ran away, thanks to Dimitri's illusions
+* Encountered more at tomb, Dimitri distracted them
+* Area inside was flooded, Luna used the glove to absorb it
+* However she absorbed to much and there was an explosion
+* Waded through remaining water to get some pull doors
+* Found cursed scythe, left it behind and collapsed the tunnel
+* Found destroyed Kingmaker, Dimitri took it
+* Found jet black spear head
+* Solved puzzle related to mural to get into final room
+
+=== Session 23 ===
+* Ashling returns
+* Enter boss room, All-Seeing Eye on statue?
+* Raven Idol appears
+* Nukes Kira
+* Ashling acquires its scythe
+* Dimitri grabs gems and crap
+
+== Chapter 10: Schism (第十章「<ruby>分裂<rp>（</rp><rt>シスマ</rt><rp>）</rp></ruby>」) ==
+
+=== Session 23, cont. ===
+* Approach the fortress
+* Many refugees from our side of the river
+* Some kind of barrier covering the river to prevent crossing
+* Called Spirit-Inhibiting (SIN) Field
+* Destroys mana, killing mana adepts
+* DLA and KE split
+* DLA go to heal an injured guy, he is being looked for by guards
+* Escape guards into ox cart
+* Seems Ricardo was trying get across the river; he has explosives
+* Arrange to meet later tonight to discuss plans
+* KE talk of killing Cilionians
+* Party rejoins, discusses meeting with Ricardo-tachi the suspicuous
+* Mea seen with loli witch, talking about the party
+
+=== Session 24 ===
+* Need to meet with the suspicious guy(s)
+* Pale woman Margo and blonde dark-skinned young man Ishmael
+* Surrender weaponry
+* Enter secret passageway hidden under barrel
+* Secret bunkers with secret plans!
+* People are of Sonograd, seeking the All-Seeing Eye
+* Interrupted, now they seek to cause problems for Magus
+* Recently many Andelanian refugees arrived in Sonograd
+* Ashling notes they seem to be more focused on Magus than Cilonia, and that these people are not the leaders of this movement
+* Their plan was use explosives to blow up the barracks
+* On the fortress:
+** The strange room in the top level of the center of the fortress - RYGB crystals in the room for an unknown purpose
+** Bridge and dock as access points
+* On Magus:
+** Sidclova  clan
+** Ward off mana, pollution, other peoples' thoughts
+** Practice Desecration of Life, Humanity, Society, the Family, Religion, and Mana
+** Magus loyal to the Emperor, cruel and cold
+* Kira takes Luna's crystal to make a necklace for Ezme
+* Ashling goes to get families out
+* Ezme and Dimitri go to convince the quartermaster to give some supplies to the rebels
+* KL accosting by racist guard who doesn't like them
+* Luna uses Empathy powers to steal the guards self-righteous attitude, which gets them out of trouble but...
+
+=== Session 25 ===
+* Party re-meets up
+* Ezme took Arnaundus to go cast a spell (summon Marigold)
+* Ezme made a pact from Marigold
+* She used Arnaundus to call it
+* Marigold told Ezme the dream magicks
+* Other spirit Ezme had summoned claimed to be "her"
+* Luna executes plan to poison barracks members
+* Dimitri acquires materials
+* Luna produces the product
+* Ashling infiltrates the barracks
+* Meet with rebels, the explosives are already in transit
+* Make it to barracks before the explosives are set
+* Sneak in through kitchen with some explosives
+* Army blocking the main bridge
+* Retreated to find a way down to the river so we can try to get across with Undine maybe?
+
+=== Session 26 ===
+* Running through fortress
+* Beat up some soldiers
+* Force doors behind us
+* Reach river
+* Undine helps us across
+* Says "the apocalypse is approaching"
+* Spirit!Luna read a prophecy "When the sisters of turmoil find their soul mate and return to the beginning, the bells of heaven and earth will toll in unison some other crap"
+* White and black haired girls playing in stream...ok?
+* Sneak past guards
+* Stopped finding people
+* Reached crystal room
+* Crystals seal everybody, Magus appears
+* Beat down Magus eventually, fireballs rain from the twilight sky
+* Demon lady destroys Magus (Lilith?) looks like Mea
+* Altair appears
+* Lilith nukes everyone
+* Penelope and Mea appear, Penelope absorbs Lilith
+
+===== Book 2 (第二巻) =====
+
+==== Chapter 1 Warrior of Shadow, Warrior of Light (第一章「影の戦士、光の戦士」) ====
+
+=== Session 27 ===
+* Undine catches Luna with water as she falls of the tower
+* Kira falls down and lands in tower, along with Magus
+* Tries to find Ezme, but is blasted off
+* Undine catches him too
+* KL wandering
+* Luna healing people, Kira looking for rumors of Ezme & co.
+* Researched strange fire goblins; seem to be elementals from Lilith
+* Kira trains, accumulates corrupted aura
+* Luna and Kira wake up in strange dream hotel
+* Exit into modern-ish area, Ezme? ("Sarah") and Undine? ("Rebecca") people
+* Apparently we are in a weird parallel universe or something
+* Going to be shown around school?
+* Randomly natural disasters and two-headed dragon shadow
+* Wake up!
+* Talked with Undine, she actually had the same dream
+* Was about the previous world?
+* Sarah was the elemental spirits' leader, left at the Beginning and never seen again
+* Comfort Undine
+* Reach new town, looking for Shadow King's Horn
+* Rebels appear to be being blamed for the fortress's destruction
+* See girl Meridia helping some people, notices us
+* Go to trading post Lunes
+* Meet with Moffel (cashier, pink-blonde), Jean (owner, blonde), arrange to stay
+* Meridia talking to Bianca (hot, red-haired)
+* Horn is artifact of Malcom's campaign against Cilonia
+* Attacked by mysterious assassin
+* It's actually Ren
+* Go back to inn and talk
+* Go to bed
+* Luna and Ren go out to talk & meet Undine
+* Go to bed again
+* Met Kira in the lobby, Meridia is still asleep
+* Put Meridia in bed, Luna kicked the boys out
+* Kira acquired in the morning by Bianca for work
+* Ren goes along
+* Luna pulls in Meridia
+* Talks to her about elemental spirits, show her Undine
+* Meridia gets Undine's "blessing"
+* Malcolm ("Roland") at the inn when Luna returns (no one recognizes him)
+* Said he wanted to find companions for Meridia, which we now are
+* Collect Meridia and went out of town towards the Temple of Life, where Dryad and the Tree of Life await
+
+==== Chapter 2: Secrets of Mana (第二章「伝説の聖剣」) ====
+
+=== Session 28 ===
+* Left Prairie Brook and went west going to the forestland near the mountains (The Western Mountains)
+* Meridia said we shouldn't kill things since the faeries will get angry
+* Kira, Ren, and Luna foraged for food
+* Kira/Meridia sparred for a bit
+* Meridia approached Luna and Ren but she seems like she can't come up with a topic
+* Ren asked her "what's up"
+* Meridia wanted to know if Kira "was a person of strong morals"
+* Meridia said that her religion worships God who guides them and watches over them; everyone has light inside themselves and must use it guide themselves and make the world a better place for themselves and spirits
+* Kira met Mea in a clearing
+* Mea told Kira how she was the corrupt spirit of death and wanted to unlock humanity's full potential. She also promised to find Ezme
+* Mea and Kira made a pact so they can work together
+* Met some faeries at near the temple, they refused us entry as it was too dangerous to let humans into the temple
+* Tried to convince them to let us in, Luna tried to show them the Aquamarine Seal but it wasn't that interesting
+* Luna summoned Undine and she convinced them to let us in. They wanted us to surrender weapons, Kira didn't give up Arnaundus and they let it slide because Undine said it was important
+* Found Jonathan, looks like he is a couple years younger than Kira and could be his younger brother
+* He said he was apparently kidnapped by a dragon
+* Kira/Jonathan talked a lot about stuff, Kira taught him random survival things and Jonathan showed Kira how to skip rocks
+* Jonathan mentioned that the world sucked and that spirits were shells of people, eventually decided that he was going to work for the dragon and do what she wanted, that would be his goal
+* Meridia was dying of cuteness
+* Luna went around town with Meridia and talked to various faeries
+* Went into the Shrine of Mana, Dryad was there
+* Asked everyone why we were here, what we would sacrifice to succeed in our quest
+* Told us about how life/death is natural, how the world was founded upon freedom/not restraining the spirits
+* She removed the darkness from Arnaundus and made Kira able to fully control it; also gave the ability to purify corrupt mana
+* Luna made her pact, also summoned Undine so she and Dryad could talk. They also had a nice hug❤
+* Party came out and went to sleep, Jonathan did come crazy magic shit and gave Kira a bunch of nightmares about drowning, dying, his village being murdered, etc.
+* Asleep!Kira grabs the sword and a bunch of corrupt mana begins to flow into the sword
+* Weird inky liquid stuff comes out of Kira's ears and escape out into the night
+* Party woken up by lots of random shouting, turns out to be random huge Death Elementals
+* Jonathan is stolen by one, Kira runs after him while the rest of the party tries to kill those that are attacking the tree of life
+* Party is able to defeat most of them after suffering emotional attacks, Dryad helps and destroys the rest
+* Kira goes to save Jonathan, 4 of those Death Elementals show up, Kira decides to hold them off so Jonathan can get away
+* Kira manages to defeat all of them, then he goes to finish the last one, which turned into some of those various inky black creatures
+* Kira kills them somehow, which also results in his death
+* Dryad shows up and revives Kira, rest of party catches up. Meridia carries Kira back
+* Kira/Mea have another dream sequence; Mea laments how she can't help Kira, only destroy things
+* Kira has random headache attacks like Cloud w/ Jonathan memories of his talking about spirits being shells and stuff
+* Party leaves the faerie village and heads towards Shrine of Earth
+
+==== Chapter 3: Black Magic Girl (第三章「<ruby>黒魔法少女<rp>（</rp><rt>ブラック・マジック・ガール</rt><rp>）</rp></ruby>」) ====
+
+=== Session 29 ===
+* Return to Prairiebrook
+* Put Kira in bed to rest
+* Luna goes out with Ren
+* Meridia was going to ask Kira out, but Bianca appeared
+* Offers Kira food in exchange for company
+* Kira sees dejected Meridia, but doesn't know what's going on
+* Luna and Ren encounter Meridia outside
+* Luna absorbs Meridia's emotions
+* Meet up next morning for breakfast
+* Roland eventually appears
+* Meridia doesn't eat much
+* Roland tells us that the corrupted spirits appeared after the war
+* Making pacts with the pure spirits will help us prevent the apocalypse they are going to cause
+* Next target is the temple of earth, to the north
+* Elementals there became hostile to people living there
+* Penelope appears, freezes time, tells Kira she needs to see something
+* Goes back in time to meet 8-year-old RLK
+* They play some games, tag, hide-and-seek, feeding jumping fish
+* Penelope says she needs to go further back, and casts a spell
+* See Jonathan walking home in some city
+* Talks with his mom about miscellaneous stuff
+* Bio attacks in Japan on TV
+* Penelope appears in Jonny's room
+* Asks him about people he knows
+* Says she wants to "observe"
+* Watches him play Runescape
+* Elsewhere, in an ocean facility. Looks military. "UN-sanctioned WFC sea lab"
+* Snakes, etc., in a box, inserted into cell
+* See a person kept in confinement, hospital garb and sedated
+* Snakes, etc., explode
+* A few days later...
+* One of the researchers resigns, kills himself
+* Halina working on Project Eve, interfacing with "Sara" - she is meant to be able to use "mana"
+* Project was successful enough, plan to scrap results and start again
+* Using reptiles to mind rape Sara into using magic
+* Halina talked with Sara
+* Sara mana-hacked for Internet, plays Runescape with Jonny
+* Halina lies and doesn't tell anyone about what happened
+* Sara is taken to be terminated
+* The guards are destroyed, and the world is torn asunder as a twin-headed dragon rises
+* Back in Lunes
+* Roland attacks Penelope, but Kira tackles her out of the way
+* Penelope makes her escape...
+* Failure.
+* Roland threatens her, but Kira pushes him away
+* Penelope forces Kira to release her, then makes her escape...
+* Success!
+* MKRL meet up to talk about what happened
+* Penelope secretly calls Kira over
+* Kira kisses pact with Penelope
+
+==== Chapter 4: Kira in the Lion's Den (第四章「獅子の穴の中のキラ」) ====
+
+=== Session 30 ===
+* Going to temple of earth
+* Kira making stew that Meri would like
+* Kira talks to Meri about her book, the food, the quest, etc.
+* Kira talks with Penelope about the temple of the earth
+* And about romance
+* Summon Mea, she also doesn't know for sure what is causing the issue
+* Arrive at Humbaboden, logging community nearest to earth temple
+* They don't re-plant their trees -_-
+* Man attacked by large creature, happening occasionally to various travelers
+* Woman attacked by tiny trees outside in her yard
+* Suddenly, large explosion
+* Super-angry large ogre wielding tree appears
+* Luna manages to calm him down, falls unconscious, and he leaves
+* Ogre's name is Trilby, he used to be really nice and nonviolent
+* Kira buys a book about St. Hanada for Meri, gives it to her
+* Kira and Meri get in bed together
+* Kira kisses Meri and she faints
+* Kira and Meri sleep together, literally
+* Head to temple of earth, sense lots of corruption as Roland said
+* Met with Altiar, raced to save Gnome
+* Gnome appeared, looked like source of corruption
+* Summoned tree monsters
+* Retreated and blocked path
+* Tried alternate root around ravine
+* Luna sensed corruption sources from two directions, back (unknown) and right (towards Gnome?)
+* Party splits
+* Luna and Meri encounter Nymph, posing as a servant of Gnome, says the corruption is her sadness
+* Luna and Meri turn about to regroup with Kira and Ren
+* Kira and Ren find Gnome in a pond, chase her around
+* Nymph intercepts them as they lose Gnome
+* Kira accidentally triggers a pollen-spewing plant
+* Tells Kira the pollen is good luck, lol
+* Penelope runs into Kira, tries to make out with him because of the pollen
+* Meri and Luna see what happened, Meri runs off
+* Kira gets cleaned off...
+* Nymph appears before Meri and Luna, gives Meri a strange drink
+* Meri attacks Kira
+* Penelope appears and tries to attack Meri, Kira restrains her
+* Gnome appears and proposes to Kira
+* Kira is beat down
+
+=== Session 31 ===
+* Mea at Castle Andegrist, studying rose plant in gardens
+* Touches it, void opens and the plant explodes into some crazy plant monster that grabs her
+* Suddenly she is carrying young Ezme, who is silently talking to Mea
+* Young Kira appears, then lot of other people, but still no sound
+* She sees Becmi, who glares at her
+* Mea screams, but there is no effect
+* Cut to the funeral
+* Mea is standing in for Ezme's mother during the scene
+* Cut to strange mechanical room
+* Malcolm watches, holding a balance of spirit and soul
+* Bleeds all over it, filling the sides
+* Machine sounds strange, then blood explodes and fills the room
+* See Mea connected to a baby Mea (?)
+* Cut to Mea's palace between dream and reality
+* Mea wakes up, surprisingly calmly
+* Back to reality
+* Kira is being beat down
+* Luna goes to absorb Meridia's emotions, Penelope cats and runs off
+* Luna smacks Meridia and Kira
+* Altiar appears and tries to send the rest of the party away for a duel
+* Luna smacks Kira again, heals him, and kisses him
+* Rest of party departs
+* Party tries to form a plan to catch Gnome
+* Ren eventually lassos Gnome into the water
+* She summoned and earth golem
+* Earth golem defeated
+* Nymph makes a pact with Kira
+* Eventually after talking with Gnome, go to the shrine
+* Pacts are made, and items are enchanted
+* Go back to town, and try to convince them to plant more trees, etc.
+* Meridia threatens to leave
+* Go to meet with Penelope
+* Mea is too busy being accosted by a person called Sara to be summoned
+* Talk with Penelope about corrupted spirits, etc.
+* Meri is convinced to stay
+* Take Pen back to town as cat
+
+==== Chapter 5: Prism of the Heart (第五章「心の<ruby>三稜鏡<rp>（</rp><rt>プリズム</rt><rp>）</rp></ruby>」) ====
+
+=== Session 32 ===
+* Heading north to the Temples of Moon and Fire
+* Weeks of travel lead up to the city of Kartalamanka
+* Built around freezing rivers and lake from the mountains
+* Kira and Meri go to market, and hear about a water spirit that can cure any ailment, but those who visit her disappear
+* Luna, Penny, Ren go out
+* Rebel attack in Galmans, crushed by Empire
+* Rebels destroyed infinity line
+* Mana adepts pulled the train into an alternate dimension!?
+* Said that Queen of Andenland led the attack herself
+* Shrines are to the north, center of empire where rebels attacked is east
+* Roland appears, and tells us he thinks the water spirit is a corrupted elemental
+* Head into mountains, looking for something suspicious
+* Climb to summit, see castle, Luna gets sick, summon Gnome, avalanche, Luna unconscious, crossing ravine, bear cave
+* Eventually meet with carriage carrying nobleman Herrig Dolfheimer who was Lanial
+* Carries us to the palace of ice
+* Kira and Meri meet some kids, looks like there are lots of guests her interrogated by Lanial
+* Luna is treated and eventually wakes up
+* Receive invitation to social gathering by Lanial
+* Kira and co. have a snowball fight
+* Luna starts to ask about the Prairiebrook Dream, but stops short
+* Luna has some bad flashbacks, and goes back to her room
+* Rest of party goes to the gathering
+* Kira talks to random people; looks like people aren't allowed to leave
+* Lanial seems to be collected people for knowledge/counsel
+* Lanial eventually appears before everyone
+* Eventually get to speak with her in the audience chamber
+* Lanial asks why corrupted spirit is with the party
+* Lanial says she is just gathered people to talk to them
+* Wants to understand the "soul" and how people work
+* Kira kisses pact with Lanial
+* Head back to town
+* Offer to Marksikuul of Kwilik’pshi to come with us; summon Undine to prove we want to meet Spirit!Luna and form a pact
+
+==== Chapter 6: Symphony of the Moonlight (第六章「月光の夜想曲」) ====
+
+=== Session 33 ===
+* Arriving in land around the Moon Temple
+* Steppes with exposed rocks across plateaus
+* Hanimani religion - Human, Nature, and Spirits - rites of purification, etc.
+* Spirit!Luna is known as Nilini, prophet/focal point of religion
+* Some outsiders + Tsubakinomine ("Exiled Destroyers") trying to exploit the clans (slavery, drugs, etc.)
+* Recently Empire + Magus got rid of the criminals
+* The moon grows full
+* Moonlight has affect on ambient mana
+* Ren watching the moon, Luna talks to him
+* Shot of space, watery planet
+* Flash of light, and the planet has a magma pillar erupting from it
+* Cut to where the pillar comes out of the ocean
+* From the pillar comes a twin-headed black dragon, wailing
+* Obsidian forms a mass of land
+* One of the dragon's heads is unconscious, attacked by other head
+* Sarah crying, sitting next to the skin from the head
+* Grabs magma from the sky and forms a moon
+* Sarah wanders the world as it is being created, creates stars
+* Back to reality
+* Ren talked about how moon stays with people, but it can still be lonely
+* Meridia apologizes to Kira for judging the corrupted spirits, talk about what happens after the pacts
+* Luna helps Kira summon Nymph
+* Kira talks to Nymph about many things...
+* Luna talks to Ren about the Prairebrook dream, etc.
+* Later, elsewhere:
+* Penelope and Mea meet again
+* Mea says she talked to the creator (Sarah?) and come to the conclusion that the way to save everyone is to destroy them all and recreate the world
+* Other sequence (first meeting of Mea and Penelope?):
+* Mea remarked to herself about Penelope's longing, and calls to her across a bloody sea
+* Mea remarks that there was no moon before (this is where Sarah is creating the world?)
+* Penelope asks who Mea is, which Mea seems to not comprehend
+* Lanial appears, talks about how the self by existing creates a barrier against others, through which you cannot truly know them
+* Reach "capital" city Nilmwilk Ano Walishi...covered with corrupted mana from fear and despair - gathered by the moon, then corrupted?
+* Mar wants to get paid 10k, asks instead for us to keep her safe while we figure out what is going on
+* Will need to visit the embassy, protect Mar from imperial executors
+* Kira asks Mar about recipes
+* Everybody hates us
+* Went to embassy, seems a bit on edge except for piano player Dianna
+* Let the investigation begin!
+
+=== Session 34 ===
+* Need to find the source of the corruption
+* Man Dolby Mackan approaches, says that Mar is a criminal, which we acknowledged
+* Serial murders occurring recently
+* Perhaps remnants of the eliminated evil group? Most people complain about the empire
+* Murders all occurred in remote locations, signs of struggle, bite marks on neck, corpses look older than they should be
+* Dryad asks Kira to summon her using the sword
+* Kira sees Dolby doing something with alchemy, ignores him
+* Calls forth Dryad, who tells him that a path beside the corrupted spirits is a difficult one
+* They want humanity, as humanity is their source - compassion, understanding, love keep them from destroying humanity by weakening their corruption
+* Even the difficult corrupted spirits must be dealt with this way; fighting them only helps them through violence and strife
+* Ren and Luna go to look through the city, Kira goes to collect Mar, Meri talks with Dianna
+* Unlikely anyone will want to talk to us willingly
+* Try talking to people
+* Try volunteering healing services
+* Meri and Kira run into Penelope cat, says she found Mea and she is OK
+* When the moon grows full, something happens to Penelope
+* Lanial appears before Kira, scared for herself, Penelope, Kira, doesn't want Kira to leave
+* Luna and Ren meet Mea, who starts draining life energy, Luna tries to get her to stop
+* Meri running throughout the city, encounters Penelope and chases
+* Mar appears as Meri catches Penelope; Mar threatens Meri to keep her back, they fight!?
+
+=== Session 35 ===
+Days after the incident
+* Kira has found everybody dead, and broods alone in the plains
+* Threw Arnandus into the river
+
+Immediately before the incident
+* Kira & Lanial find Penelope at the base of a building
+* Penelope produces major arcana XVIII The Moon
+* Tells him to turn back to peaceful life or be broken
+* The card burns to reveal major arcana XVI The Tower
+
+* Mea lies on the grass, happy she was able to "save" Luna
+
+* Kira goes up to the roof to find Dianna, the vampire murderer
+* She kicks the crap out of him
+* Sarah appears tells him to escape
+* Kira eventually runs as the two-headed dragon attacks Dianna
+* Dianna appears again, Nymph wolf appears to face her
+* Kira runs away again as the wolf attacks
+* Dianna breaks the wolf's neck
+
+==== Chapter 7: With the World on His Shoulders (第七章「世界を彼の肩に背負い込む」) ====
+
+=== Session 35 (cont.) ===
+Luna, death's dream
+* Young Luna in Sinobi finding the broke bird, but Nymph heals the bird for her
+* Nymph tells Luna to stay here, far from the cruel world she was in
+* Luna is confused, but goes to find Ren
+
+Meri, death's dream
+* Young Meridia training, disguised as boy
+* Small Nymph appears, is friendly with her
+* Nymph kisses her
+
+Kira, the plains
+* Traveling at random
+* Arrives in some trade town in the plains
+* Sells pelts for food
+* Encounters Jonathan, and goes to travel with him to meet some of his friends
+
+Mar, death's dream
+* Mar in the moon temple, wearing robes of priesthood and without any of her battle scars
+* Looking for Kira
+
+Ren, death's dream
+* Rainforest around Sinobi, at the Arctus River, are Kira and Ren
+* Ren tells Kira he wants to be like family between them and Luna
+* Wants to protect them
+
+The dead, death's dream
+* Mar refuses to sit around in the land of the dream, departs
+* Ren wants to leave, but wants to go with Luna
+* Luna doesn't want to stay either
+* Meri wants to stay...
+
+Kira and Jonny, the plains
+* Kira summons Mea with much effort
+* Mea admits she killed Luna and Ren
+* Kira pacifies her, then returns to Jonny
+
+The dead, death's dream
+* Luna and Ren convince Meri to come
+* Nymph reluctantly lets them go
+
+Kira and Jonny, city
+* Go to bar
+* Halina and Sarah arrive, get food
+* Kira and Sarah play at river
+* Kira is left alone in the night
+* Continues his travels, encounters Dianna who seems weak
+* Kira spends day trying get her to appreciate the world, which obviously involves sex
+
+Luna-tachi, outskirts of Nilmwilk Ano Walishi
+* Mar wants us to deliver message to Kira
+* Luna gives good luck charm to Mar
+* Luna summons Undine who delivers Arnandus
+* Meet with Roland, who knows where Kira is
+* Start following after Roland's spell that tracks him
+
+Party, some city
+* Eventually find Kira at a city's restaurant, Dianna runs off
+* Re-collect Dianna
+* Introduce her to party, tell them about what she did
+* Kira reconciling with Meri and Dia
+
+== Chapter 8: The Girl Who Fell from the Moon (第八章「太陰から舞い降りた少女」) ==
+
+=== Session 36 ===
+* Pick flowers with Luna and Dia
+
+Nilmwilk Ano Walishi
+* Heading towards coast city near the Temple of Moon
+* Corruption seems to be gone
+* People seem better respectively
+* Went to embassy
+* Seems the wielder of Arnandus defeated the beast...
+* Mar became accepted again into priesthood, spread the rumors
+* Supposedly Spirit!Luna intervened on Mar's behalf
+* Head for Temple of Moon
+* Kira and Luna summon Penelope and try to make her feel better
+
+Nilm Ano Ni
+* Takes about a day
+* Built along the coast
+* Set up meeting with Mar
+* Luna goes to market area to watch people setting up for festival
+* Good luck from invisible spirits nam'pto
+* Mar meets with Kira and Meri
+* Dia is made to talk with Mar by Kira
+* Go to meet with High Priestess Kurp'til to make our case to meet with Nilini
+* She is a weirdo but Luna survives with Undine's moral support
+* Mar purifies Kira &al.
+* Escorted to inner sanctum of the temple
+* Talk with Nilini, she wants us to show our intentions during the festival Paniwakishi ("Fortune Harvest Festival")
+* Call her Mina during the festival
+* Party prepares to go to festival, Kira summons Lanial
+
+=== Session 37 ===
+* Luna talks to Mina about the Moon and the Earth
+* Kira goes to beach where people and hurling stones
+* Dia is there, winning
+* Ren appears to be a rival
+* Kira rolls a 15 and nukes everyone
+* Dia 💛s Kira
+* Ren sees what time it is and makes his escape
+* Luna goes to petting zoo
+* Kira goes looking for Penelope
+* Finds her with Lanial, who is judging food in a cooking contest by asking a lot of questions
+* Meri appears and talks to Kira about a contest
+* Kira and Meri do some dancing and do well
+* Kira and Meri and Ren shoot arrows, somehow Kira crushes everyone
+* Ren and Luna get their relationship fortune told
+* Luna summons nam'pto, give them bracelet gifts and stuff, people get along nicely
+* Ren takes Luna to the ocean for his date
+* Kira celebrated for being amazing
+* Kira takes Mina and Penelope to a bounce-rock-into-cup game
+* Talk about the Moon &c.
+* Mina announces her fortune to the world: the fate of the world is up for change
+* Many illusions cast by the darkness in peoples hearts
+* People must reach out to the truth for themselves
+
+Sanctum of the Temple of the Moon
+* Make pact with Mina
+* Power up Arnandus with Moon
+* Power up Ashurn is impossible until going to the Moon
+* Tells use the foe that we will need to overcome is Ezme!!
+
+== Chapter 9: Wildfire (第九章「火災」) ==
+
+=== Session 37 (cont.) ===
+* Heading to fire temple next, via the Thundering Wastes and Vanwalla
+* Kira goes to summon Nymph with Dia and Luna
+* Creature tears itself out of the hill
+* Goes to attack Kira and Dianna, but doesn't actually
+* Luna and Dianna go to get cleaned up
+* Kira is made to agree to have fun with Nymph by Nymph at the next town
+* Tarot reading: Death for Pen, The High Priest for Luna, Strength for Kira
+
+Ruins elsewhere
+* Pen and Mea
+* Pen invites Mea back
+* Think about releasing Lilith and try to talk her down
+* Pen releases Lilith
+* Mea apologizes
+* Lilith "kills" Pen
+
+Back with the party
+* Going to be going into the Thundering Wastes, need supplies + guide
+* By miracle managed to collect everything we needed
+* Acquired masked NPC guide with repeated carbine, cloak, battle axe, &c., named Gevas Duskvin
+* Flying dargon monsters "vulcorn" (unicorn + vulture) and small reptile creatures "tuktuk" are large dangers in the wastes
+* They steal gear and hunt in the storms
+* Rest the night, then head out
+* Slow going and stupidly hot
+* Flock of vulcorns circling high above
+* Race to butte as the sandstorm hits
+* Kira cuts alcove in butte with Arnaundus and we hide there
+* Set up camp
+* Arnaundus is stolen by tuktuk while Dia is..."busy" "thinking about" Kira
+* Kira, Meri, Dia, go after immediately, rest of party gather gear and follow
+* Kira and Meri enter some cave at the end of followed tracks
+* Enter somewhat lit room with tuktuks, and old turtle spirit with mustache "Geemo" with Arnaundus
+* Geemo asks if Kira-tachi are the Warriors of Light, says he is the guardian spirit of the tuktuk
+* Mystic urn is needed to keep the tuktuk safe in the tunnels beneath the sands
+* It was stolen along with tuktuks being kidnapped by vulcorns (aka "thunderbird"s), Geemo wants us to save them
+* Guess that they may be at the largest roost, to the west at the Thundering Butte
+* Maybe employ Nymph to help talk to them?
+
+=== Session 38 ===
+Wastes
+* Need to find the Tukipot - generates water
+* Luna summoned Ssraiya - earth spirit
+* Tells us that the Thundering Steppes has a large spires that rises out of the dunes
+* There is a large winged bird that is the cause of the state the land is in; also controls lightning and is the source of the storms
+* It is a corrupt spirit
+* Siren!
+* Climbed up the tower
+* Siren's song ate away at everyone's determination; felt like being called to the top of the tower/a void; felt bad
+* Luna ran into a nest and tried to convince the vulcorn's not to kill us
+* Able to get inside; found some water inside the wall dripping down
+* Meridia inspected it and figured out that the urn was above us
+* Diana/Luna got a lock on it and Kira used Arnaundus to drill up to it
+* Found some tuktuks and the urn, fashioned some way to carry all the stuff down with Ren's stuff
+* Got to the bottom, Siren got angry and started chasing w/ vulcorn help
+* Luna/Kira summoned Gnome and she summoned Rocky; held off most of the vulcorns
+* Siren saw Gnome and decided the party wasn't worth it so she left
+
+Outside the wastes
+* Got through the desert to Chualka, just inside the border of Altair's home country place
+* Can see The Source from here; could probably fit a nation inside it
+* Can see Mt. Serket where the Temple of Fire is
+* Worked for some money, Luna made super good money being a healer
+* Kira made a super sandwich for Gevas
+* Kira also made a fish sandwich for Gnome for thanks for earlier
+* Luna/Kira/Diana when and tried to summon Penelope
+
+Dream sequence
+* Kira got pulled into some dream reality with Penelope
+* First part was a dream where Kira/Penelope were wearing standard Sinobi marriage clothing; Kira put some flowers in Penelope's hair
+* Second part was a dream where Kira/Penelope were standing on the edge of The Source; Penelope talked about how God was in the center and that she wouldn't be able to be there with Kira, but she (God) needed him
+* Penelope told Kira to 'Hominem te memento' (remember that you are human) and that 'even rocks will smile back at you if you smile at them'
+* Said that she would be waiting for Kira in Hell but that she wasn't afraid
+
+Reality
+* Kira came back to consciousness and Diana told him he almost died; Luna was super worried and tried to squeeze him to death
+* Diana said that if something happened to Penelope then Lilith probably has been freed, so Venus (the fallen angel who awaits the end) will be waiting for us at the Temple of Light
+
+=== Session 39 ===
+Chualka
+* Need to head Mt. Serket and the fire temple
+* Constructed long ago by kingdom who entombed their sorceress-rulers there
+* Allegedly guardian spirits are bound there
+
+On the way
+* Kira talks to Nymph about Siren
+* Siren claims to be the master of chaos, tends to take form of dragon
+* Pretty much wants to destroy stuff
+* She tends to terrorize the inland sea and the roost we saw in the wastes
+* Could maybe defend the song with mana barrier or making Siren revert to non-draconic form
+
+Mt. Serket
+* Reached foot of mountain
+* Altair appears
+* Kira goes to fight him one-on-one
+* Kira is able to beat him up
+* Altair flees
+
+== Chapter 10: Hell (第十章「黄泉」) ==
+
+=== Session 39 (cont.) ===
+In the Corona
+* Can see the temple down inside the corona
+* Entering temple
+* Super hot
+* First room had pure mana fake wall to the east
+* Found luxury bathing room with minor corrupt fire spirit
+* Called herself Leviathan, said Lilith is here
+* She had the blue key
+* Took her with us
+* Says her sisters are around, and that she doesn't like them
+* Head west, come down to room with coffins
+* Run into another fire spirit Lucifer
+* Continuing forward into super-hot cavern with lava and boiling water
+* Continued into another room with axe-wielding spirit Satan
+* Wandered around, finding locked doors and going through the blue ones
+* Trapped in room with fleshy demons who attack
+* Heal from corrupt attacks
+* Defeated them
+* Went back around to hot spring area, Kira and Meridia went down to check out the area
+* Bunny girl fire spirit Asmodeous appears
+* Kira breaks down cracked wall and finds room with cage-elevator and crystal pylon
+* Room looks pretty damaged
+* Got upstairs to study where we found the red key
+* Went through red doors to a treasure room
+* Hot fire spirit Mammon lounging in the room
+* Went across chasm into green room and found Baalzebub
+* Got green key from her
+* Traveled to green doors, one had bedroom with another spirit Belgephor
+* Other one is a pitch dark room with magical darkness
+* Large maze with fire caterpillars chasing us
+* Found red door leading to purple room
+* Another spirit Astaroth with the purple key
+* Travel to the purple
+
+=== Session 40 ===
+* Entered room, spirits refused to follow
+* Met black mage summoned who summoned demons and attacked
+* Found scroll of Magic Vessel and gold boss key
+* Returned to Satan
+* Convinced her to come with us to meet with Lilith
+* Levi took party to bath to recover
+* Returned to inner sanctum
+* Ledge surrounding magma flows
+* See Salamandra sleeping on island, next to burning brazier
+* Head there, but Lilith appears with dead Penelope
+* Beat Lilith, Kira unleashes his rage and summons wings of flame
+* Salamandra wakes up
+* Penelope's body is burned in the Everlasting Flame and she actually is resurrected
+* Luna quickly enchants Ashurn
+* Salamandra sends everyone out as the volcano erupts
+
+Outside
+* Salamandra says her name was Jessica/Jessie
+* Luna makes a pact
+* Kira eventually makes a pact with Lilith
+* Mea/Sarah/Jonny/Halina watch as party departs from the mountain to go rest
+
+===== Book 3 (第三巻) =====
+
+==== Chapter 1: Marduk Academy for Gifted Children (第一章「非凡な子らの為のマルドゥク学園」) ====
+
+=== Session 41 ===
+* Academy/prison used to keep at-risk kids with significant mana manipulation abilities from causing problems for society
+* Dimitri arrives and collects the school uniform
+* It is pretty old and beat up since apparently until recently this was a girls' school
+* Ashling is sent by her mother to keep her away from her terrible family life, which is getting worse due to recent scandals
+* Her uniform is nice
+* Kira is escorted onto the premises by the police, having attacked someone for violating his standards of justice
+* His uniform doesn't really fit
+* Healer!Luna is there because she is disturbingly shy and prone to potentially dangerous panic attacks if she can't find her cat doll
+* Luna ambushed in library by Lumina ("Christina"), who takes Luna to go collect her uniform and show her around
+* Kira, Dimitri, Jonathan, Ren meet in boys' shack in the back of the school
+* Jonny is baking a cake; guys go out to have a picnic in the garden
+* Luna and Lumina run into Ashling, and Christie forcibly introduces everyone
+* Luna, Lumina, and Ashling tour the grounds, and are attacked by Kira saying hello
+* Dimitri goes after Kira
+* Christie runs away, Ashling runs up a tree, and Luna runs into the ground
+* Sarah appears and attacks Kira with a football, rescuing Luna
+* Kira and Dimitri try to talk to Ashling
+* Failure
+* Jonathan approaches Ashling in the tree and gives her free things
+* Luna ends up sharing a room with Sarah, Ashling is guilted into staying with Lumina
+Following day
+* Boys get to eat more of Jonny's cooking
+* Meridia ("Jack") is there as well
+* Luna is ambushed in library again by Kira and Dimitri
+* She runs away and hides, eventually finding Sarah
+* Sarah says she wants to go to the Source
+* Luna asks her about hobbies, takes Sarah to library
+* Kira and Dimitri meet with Salamandra ("Jessica") and Sylph ("Victoria") and try to hit on them, but it is no good
+* Luna is ambushed at the pool by Sarah, who surprises her into the pool
+* She almost drowns in the almost one inch of water before managing to get out
+* Undine ("Rebecca") appears and magics Luna dry
+Orientation
+* Headmaster gives typical fairly boring speech
+* Dimitri winning dice game against Jessie
+* Gnome steals a die from him
+* Kira goes and tries to talk to Augur!Luna ("Mina")
+
+=== Session 42 ===
+* Kira goes to talk to Cici and Mimi
+* Asks about hobbies, Cici apparently likes to write, which Mimi finds funny
+* Luna goes to talk to Felicia while she is in detention, asking about hairband
+* Luna ends up cleaning the chalkboard
+* Ashling overhears Jessy and Vicky talking about a mysterious ghost in the attic at night
+* Ashling decides to try out for sports and go with J&V tonight to investigate the ghost
+* Dimitri hears Sarah and Cici&Mimi talking about something they should not mention to anyone
+* Mentioned that doing well on test lets you go to some event w/ Penelope the Teenage Witch
+* Kira finds Sarah with Cici & Mimi, trying to figure out rumors about him picking on girls
+* It was apparently a joke
+Ghost Watch
+* Odette, Ashling, Vicky, Jessie, go to attic in the middle of the night
+* Weird ghostly activity begins, hear voices
+* Boys and girls' voices
+* It appears to be Halina and Jonny, doing something suspicious
+* Halina sends everyone away
+Following day
+* Jack finds an eloquent declaration of love near the shack, with no sender or recipient listed
+* Ren, Dimitri, Kira, each think it is for them and try to figure out the sender
+* Luna was going to talk to Rebecca about studying together
+* Rebecca is talking with Sarah about Luna is weird for carrying her doll around
+* Luna decides not to talk to them
+* Luna talks to Mina about studying while she knits a scarf
+* Mina is basically like "ok, I suppose"
+* Kira also talks to Mina, but about the letter
+* Mina sort of says she wrote it, gives Kira completed scarf
+Night
+* Ashling goes to investigate the attic again with Ren and Dimitri
+* Ashling sees mysterious light for a moment
+* Find weird panorama of the school with dolls of inhabitants
+* One is unmarked and bloody, others are all accounted for
+* Ashling also notices bloody message "Bring Kira" only for a moment
+* Ashling acquires panorama and dolls
+* Ashling-tachi leave
+* Luna meets Ashling in the dorm hall, having heard something and thinking she might've been hurt
+Following day
+* Ashling tells Cristie about the panorama and also that she has a crush on Odette
+* Luna meets with Cristie and they are friendly
+Lunch
+* Kira and Dimitri go to talk to Felicia and Sophie
+* Felicia pranks Kira, Dimitri and Sophie cover for her
+* Sophie says she didn't send the letter
+* Felicia convinces everyone she is a cat girl even though she obviously has a cat ear hairband
+
+=== Session 43 ===
+* Playing practice match of soccer
+* Dimitri, Ren, Kira competing for team captain position
+* Ren ended up being captain
+
+* Luna asks Sarah a bunch of spineless questions
+
+* Ashling goes with Dimitri to talk to Odette
+* Ashling saved from Dimitri by Odette
+
+* Kira accosts Ashling to study; they go to Odette's tutoring sessions
+* Kira, Dimitri, Ren muck things up and depart
+* Christina pulls Sophie out so Ashling can be alone with Odette
+* Ashling and Odette go out to dinner
+* Odette kisses Ashling
+* Ashling goes to her room
+
+* Luna meets with Mina in the gardens
+* Having tea
+* Kira appears, and leaves
+* Luna talks with Mina about her relationship with Kira
+Test
+* Kira does amazingly
+* Dimitri and Ashling do well
+* Luna fails
+* Ashling talks to Odette about upcoming date
+* Ashling and Odette make out
+* Rebecca is to be forced to go on a date with Dimitri
+Field Trip
+* Kira goes with Sarah
+* Dimitri goes with Rebecca
+* Ren goes with Vicky
+* Ashling goes with Odette
+* Luna is going alone
+
+=== Session 44 ===
+* Kira eating lunch with Sarah
+
+* Dimitri walking around with Rebecca
+
+* Ashling doing date with Odette
+
+* Kira catches Sarah, gives her some food
+* Sarah trying to get Kira to be romantic
+* Sarah admits she wrote the love letter to Kira
+* Kira kisses Sarah on the forehead
+
+* Luna talks to Penelope
+* Pets cat
+
+* Kira takes Luna to talk with Dimitri, Rebecca, Sarah
+* Sarah is being teased by Rebecca about Kira
+* Sarah runs off
+
+* Sarah goes to Ashling and Odette
+* Tells she made a fool of herself to Kira
+* Ashling says she will talk to Dimitri about asking Kira what he thinks about Sarah
+* Ashling tells Luna about what Sarah said
+
+* Ashling asks Dimitri to talk to Kira
+* Dimitri talks to Kira about the dates
+
+* Mina and Luna do arts and crafts
+
+* Ashling and Odette make out
+
+* Dimitri impresses Rebecca
+
+* Kira plays stickball with Jessie
+* Sarah is jealous of Kira & Jessie
+* Kira shows up in the evening to study with Sarah
+* Sarah gives vodka out
+* Everyone gets drunk
+* Luna passes out
+* Sarah and Kira make out
+
+* Security guard wakes Sarah-tachi up
+* Rounding up students because of an "assault"
+* In the stairwell, Rebecca has been stabbed to death
+
+==== Chapter 2: Darkest Heart (第ニ章「最も暗い心」) ====
+
+=== Session 45 ===
+Library (one week ago)
+* Luna alone before study session
+* Rebecca apologizes to Luna for gossiping about her
+Present
+* Kira and Dimitri play soccer
+* Dimitri pisses off Kira
+* Kira beats up Dimitri
+* Ashling helps Dimitri
+
+* Ashling goes back to Odette's room with her
+* Hurt/Comfort
+
+* Kira and Luna go to infirmary to meet with Mina
+* Mina got hurt, is with Cici and Mimi
+* Everyone was in their rooms
+
+* Ashling inspects the crime scene
+* No struggle, no mana manipulation except possibly psychic attack
+* Stairway landing was well-cleaned
+
+* Dimitri talks to Vicky
+
+* Kira finds out Jack is a girl
+* Kira tells the investigation team
+
+* Go to find Felicia
+* Feed her
+* Says she saw Christina in the kitchen on the night of the murder
+* Didn't see Vicky, Mina was just going to the bathroom, nothing else suspicious
+* Christina seems constantly crying after murder
+
+* Ashling runs into Vicky and Odette and Sarah arguing
+* Vicky saying Sarah killed her family, that she is more suspicious
+
+* Christina is shaken up
+* End up taking her to infirmary
+* Check kitchen for weaponry, nothing seems amiss
+
+* Go to attic, taking Kira
+* BlackMagicGirl appears as a ghost
+* Tells everyone she is god, created this world
+* The others are ghosts from BMG's memories
+
+* Party digs through trash
+* Ashling finds makeshift glass shiv
+
+* Kira talks to Felicia about the glass
+* Mina's tea pitcher heirloom was broken recently, could be from it
+
+* Perhaps Mina had her pitcher broken by Rebecca
+* She snapped at Rebecca and killed her for it?
+
+* Go to talk to Mina about her pitcher, etc.
+* Vicky is there with her, pissed off about people bothering them about the murder
+* Ashling distracts Vicky
+* Question Mina, she admits she killed Rebecca with a piece of glass
+* Vicky comes back and admits she did it
+* Neither could describe in detail the glass murder weapon, both are lying?
+Following day
+* Another murder
+* This time it is Vicky and Mina
+* In a bathtub, bloody
+
+=== Session 46 ===
+* Check bodies, find razor and slit wrists
+* Then we find out the Christie is dead, hung in the infirmary (suicide suspected)
+* Ashling finds out painkillers are missing from the infirmary (used to drug victims)
+* Luna sleeps in Sarah's bed with her because she is scared
+
+* Jessie goes after Sarah and grabs her, threatening her for causing trouble
+* Kira and Jessie get into a fight
+
+* Luna heals Dimitri
+* Dimitry shows Fluffy to Luna
+* Luna thinks Fluffy is so cute
+
+* Dimitri with Felicia looking for materials
+* Sophie appears, sends Felicia away
+* Sophie makes pudding, eats/feeds Dimitri
+
+* Dimitri goes with Sophie
+* They have a heart-to-heart
+* She gives him a music box with a song from the real world
+* Dimitri doesn't think she is the killer
+
+* Ashling breaks into Sophie/Felicia's room, destroying the door
+* Finds empty painkiller bottles underneath Felicia's bed
+* Grabs one and talks to Odette about them
+* Resolves to speak to others about it
+
+* Kira goes to talk to Jessie
+* Jessie tries to beat him up but fails
+* Kira tries to convince her to work with us, but she refuses
+* Eventually tells Kira to find her once he has evidence for the killer
+
+* Odette heading an impromptu murder trial
+* Cici is suspected for being a dark mana adept who had access to Christie
+* Ashling reveals the stolen bottles she found under Felicia's bed
+
+* Everyone sleeps, set up pairs watching
+* On Dimitri's watch, he talks to Sophie
+* She tries to convince him to give up resisting
+* He refused to stop helping Ezme, and so Sophie killed him
+* She moves his corpse to Cici and leaves the knife there, magically cleaning the blood off of her
+
+* Tie up Cici
+* Knife is fancy, made of orichalcum
+
+* Ashling interrogates Felicia
+* Eventually figures out Sophie asked her to hide the bottles
+
+* Kira and Luna interrogate people about the knife
+* Jack and Sophie stick out as odd, with few emotions
+
+* Ashling returns, reveals what she learned, and suddenly the room descends into darkness
+* Ashling's parents appear before her and try to convince her to give up helping Ezme
+* Ashling refuses to listen to Sophie and she departs
+
+* Kira runs into Ezme in the empty school
+* Ezme makes Kira promise to come find her as soon as things are done
+
+* Luna and Ren are together
+* Ren expresses doubts about helping Ezme
+* Luna wants to help Ezme, thinks that mana is better for the world than not
+
+* Luna, Dimitri, Ashling, Kira, appear before Sophie
+* She tries to convince to the party to give up helping Ezme and take her back to Andeland
+* Party doesn't want to give up on Ezme's quest yet
+* Luna tries to make pact with Shade, thinking she could have a better life if she could leave occasionally
+* Shade sends party away right before the pact is complete, leaving its conclusion yet unknown
+
+==== Chapter 3: Erosion (第三章「浸食」) ====
+
+=== Session 47 ===
+* Kira asks Penelope about what happened
+* Penelope says she and Mea decided to let Lilith go, because it was bad to keep her trapped
+* Kira leaves
+* Luna asks Penelope about what she was omitting from the story to Kira
+* Pen says she is worried about Mea because she is off doing something else
+* She also has some potion of some kind, that she tells Luna is for "girl stuff"
+[Temple of Darkness events]
+* Cloaked figure sitting in heavy rains, next to building
+* Turns out to be Meridia, she looks terrible
+
+* Sitting in bar "Adigo"
+* Meridia looks like she is dying
+* Ren is pretty bad but he looks like he will be OK eventually
+* Diana notes that there are some suspicious individuals watching us
+* Dressed oddly nicely for the area
+
+* Strange creature Distorted Weaver lives in caverns below the mines
+* There is an old elevator shaft that can be used to get down more easily
+
+* Luna keeps treating Meridia
+* Heals her even though it is dangerous and is able to help her a lot
+
+* Ren was spying on the agents
+* They requested a lot of a backup, ready for combat
+* We'll have some time
+
+* Go to elevator shaft
+* Merc scavengers there
+* Kira scares them off with lightning
+* Ren carries Luna down, Kira carries Penelope down
+* Get inside dome of archives, navigate to inner area
+* Identify ourselves as warriors of light, door opens
+* Small alien-ish dude with small rat flies in on a device
+* Introduces himself as Naemo, his rat is Minaemo
+* They both seem like spirits, have lots of mana involved
+* Naemo tells us to look for the tribe Etherites, who know how to get there
+* Find a whole in the wall were some archives were stolen from
+* Resolve to go after them to find the info!
+
+* Naemo asks us to look for control room and insert a gem into panel to get map data
+* Head down in cavern
+* Explored a bunch, running past several scorpions
+* Eventually find some kind of building
+* Eventually find deep cavern
+* Distorted Weaver attacks, last of a people who were first mana adepts
+* People were extremely powerful, until mana left the world and magitech became useless
+* Only a few survived
+* Slowly began to rebuild as mana came back slowly
+* Then the apocalypse occurred again, though some were in stasis to be saved
+* Found that Earth was the source of the calamity
+* Surviving weavers tried to help work with primitive humans
+* Etherites, other mana adepts, built temple of wind in the sky
+* Humans killed other weavers, until only the Distorted Weaver remained
+* Now he's dead
+* Facility was built and hidden by him, but he was found by the Archmages
+* Archmages found out he was waiting for wanderers who would search for the secret of mana and cause the apocalypse
+* Archmages abandoned him
+* Weaver put himself in stasis, and attacked us because he believed we were the wanderers
+* Go back to archives
+* Luna gets Minaemo as a partner
+
+==== Chapter 4: Village in the Ether (第四章「エテールの村」) ====
+
+=== Session 48 ===
+* Kira and Meridia sparring next to Lake Kartalamanca
+* Practicing Meridia's mana abilities since she has no experience
+* Meridia is able to defeat Kira, and she leaves
+
+* Kira makes ice cream Salamandra
+* Salamandra has Kira manipulate fire
+
+Kartalamanc
+* Sickness was blessing from Shade to Meridia, and it seems Ren too
+* Meridia wonders if we were the wanderers the Weaver wanted to stop
+
+* Ren has Luna summon Undine so he can learn some magic
+* She teaches him a Seal magic
+
+* Kira in shop with Diana, hears rumors about other party
+* Diana has a super-expensive dress, tells Kira to get something for Meridia too
+* Buys kimono with landscape & moon on it for Luna
+
+* Kira uses Luna and Penelope to summon Lilith
+* Give fruit salad to her
+* Have her summon Asmodeous to arrange for some sexy clothes to be made for Diana and Meridia
+* Luna makes her escape so Lilith can speak freely
+* Lilith apologizes to Kira, he comforts her
+* Lilith asks about Mea and Kira
+
+* Luna talks to Kira about his relationship with the spirits
+* Tells him to try to treat them not like lovers
+
+* Kira goes to his room for sexy times with Meridia, finds also Lilith, and Diana......
+
+* Roland comes to meet us
+* Corrupted spirits make their escapes
+* He says Ezme has been captured and sent back to Andeland
+* We take a ferry across the lake and up a bit into the mountains
+* Roland splits the river with magic
+
+* Went to the top of a mountain
+* Luna summoned mountain spirit
+* Said to travel to the highest mountain and the Etherites can find us
+* Roland makes magic ice stairs
+
+* Kira goes out into the mountains to try to summon Lanial
+* She doesn't know where the Etherites are
+* She hopes at some point she and her sisters can meet with the pure spirits and be friends
+* She says the corrupt spirits can't appear at the upcoming festival because someone suspicious is approaching
+* Says Ren should listen to the wind and he can lead us to the village
+
+Following day
+* Roland grows apple tree from ground
+* Ren goes up and does a Sinobian prayer to the wind spirits, looking for where to go
+* Notices something that looks unnatural, thinks it must be the Etherites
+* Head down to find deep crevice
+* Roland makes a path across with the Spirit Coil
+
+* Etherite (?) asks Luna in her mind what she is doing here
+* She says they are here to go to the temple of air
+* Minaemo tells it they are the warriors of light
+* We promise not to reveal the location of the village
+* It leads us into vale where the village is
+
+Etherite Village
+* Etherites say Hanada was super nice to them
+* They want to hold a festival with us
+* Spirits talk about how Hanada's good deeds and respectableness
+* Luna and Ren have a moment watching the stars
+* Penelope catches Kira during the festival
+* She wants to know how he thinks of her
+* Tries to get him to drink love potion (?), but then stops him and destroys it
+* Large stone basin lights with flames of destruction-type fire
+* "Cleansing Flame" - burns destiny and clears one's path
+* Altair arrives on an airship and lands near plaza
+* Accompanied by other guards, as well as Emperor Cilonius and Ezme's mother Melandra
+* Emperor wants to have Kira fight for him with the Spirit Coil
+* Melandra is really worried about Ezme, Luna comforts her
+* Luna takes Melandra to Kira
+* Luna talks to Roland, tries to make him less edgelordy
+* Luna talks to Shade, who decides to go off to try to get Kira to kiss her...
+* She succeeds pretty well, then leaves
+* Roland gives some food to his blond attendant (I wonder who it is?)
+
+Following day
+* Kira at the airship, learning secrets of the wind
+* Luna explains to Kira what to do
+* Kira lets himself go, and figures out how to fly
+
+* Ship will take us to the temple of air
+* Kira will have to make it fly
+* Everyone gives their energy to Kira
+* Ship takes off to the sky, and heads for a cloud
+* Intricately crafted temple of air sits inside the cloud
+
+==== Chapter 5: Song of the Wind Goddess (第五章「風の女神の歌」) ====
+
+=== Session 49 ===
+* Arriving at Temple of Air on ship
+* Temple is a bunch of floating islands built over and connected by bridges
+* Ship lands on a small landing island/platform
+* Enter into a fountain room
+* Large dragon appears from below, singing the Siren Song
+* Kira goes to summon Nymph, who appears as this gigantic inky black squid
+* Jonny appears and urges to run into western platform while they fight
+* Meet up with Halina along the way
+* Arrive at some kind of huge gallery
+* Party rests and talks
+
+* Sarah tells Siren she will go and get Kira, because she needs something from him first
+
+* Party sneaks across the fountain room
+* Jonny teleports himself and Halina
+* Kira & al. run across
+
+* Eventually party caught by Siren in dead end gazebo
+* Party is able to drive Siren off
+* Sarah appears
+* Gives party some food
+* Sarah & al. teleport to inner shrine
+* Kira & al. follow
+
+* Encounter person we don't recognize on the way to the shrine
+* It is actually Siren, in her human form
+* Starts to fight, Siren demands to know what happened to Lilith
+* Kira summons Lilith to try to talk to Siren
+* Kira, after a long time, eventually talks Siren into his harem
+
+* Go into temple
+* Siren threatens to kill Sarah over some "deal", says Sarah tricked her
+* Kira says he trusts Sarah
+* Jonathan says he and the others talked to Sylpheed, takes Sarah and Kira with him to go "summon" her
+* Sylpheed appears, producing a wall of wind between Kira, Sarah, Jonny, and everyone else
+* Jonathan steals Kira's soul
+* Luna asks for Siren to help get us through the wall
+* Siren breaks through, and everyone goes through
+
+* Kira wakes up in the afterlife with Shade
+* Shade greets him and explains that Jonathan is Kira, and the apocalypse Sarah caused
+* He talks to Shade, she says he is going to disappear
+* Eventually, he realizes he needs to rely on his bonds to give him the will to live and use it to steal his determination back from Jonny
+
+* Kira grabs Arnaundus and counters Jonny's siphoning
+* Kira tries to kill Jonny, but Sarah teleports them away
+* Sarah says she'll take care of Jonny, who Kira says must die
+* Partially transforms into strange twin dragon creature who devours Jonathan
+* Sarah starts to summon corrupted cyclones created from all the mana in the temple
+* Siren and Kira begin their ritual to try to take control over the mana as the others flee
+* Create a massive tornado of wind that explodes
+* Temple of air is torn apart
+* Sylpheed takes Luna & al. outside and off the edge, we dive down and the Emperor's airship catches them
+* We see Kira and Siren falling, and shoot off to catch them
+
+* Luna and Halina treating Kira & al.
+* Emperor goes to speak to Kira again, makes same offer
+* Emperor announces they will help the Etherites rebuild the air temple
+* Luna makes a pact with Sylpheed
+* Corrupted spirits are explained to Sylpheed
+
+==== Chapter 6: Dungeon and Dragon (第六章「ダンジョン<ruby>＆<rp>（</rp><rt>アンド</rt><rp>）</rp></ruby>ドラゴン」) ====
+
+=== Session 50 ===
+* Kira goes to meet with Melandra
+* Use crystal ball to find Ezme
+
+* Halina and Luna talking about medicine, etc.
+* Roland approaches
+* He tells Luna the Source will be very dangerous and require an iron will
+* Then he departs
+
+* Ezme and co. traveling towards the dragon's den
+* Ezme, Ashling, Dimitri, Cici, Mimi, Egrette, present
+
+* Kira takes Luna and leaves to go meet up with Ezme and co.
+* Cici and Mimi attack, Dimitri appears, brings party back
+* Ezme runs off, Kira follows
+* Luna is introduced to other party members
+* Kira tells Ezme that the end of the dream was Shade talking
+* Kira and Ezme come back
+* Kira tries to fly with Ezme, runs into Fluffy
+* Fluffy is pet by Dimitri and Luna
+
+* Party relaxes in hot spring
+* Boys spy on girls
+
+Following day
+* Ezme is wearing dress again
+* Ashling walks off, Dimitri follows
+* Penelope runs into Ashling, gets directed to Kira
+* Dimitri is nice to Ashling
+* Penelope appears in camp, needs to talk to Kira
+
+=== Session 51 ===
+* Penelope does fortune telling
+* Ezme draws a weird non-Tarot card
+* Ezme scares Penelope off
+
+* Ashling mentions she wants to see Odette again
+* Luna offers to summon Dryad, but Ashling declines
+* Dimitri tries to make illusion of Odette
+* Ashling punches him
+* Luna goes to help him but Cici makes Mimi do it
+
+* Penelope ambushes Kira
+* Says Mea is okay, but is working with Sarah
+* Says she will probably come back soon
+
+* Kira & Ashling make food
+* Luna was made to help
+* Party eating food
+* Ezme sitting off by herself
+* Kira talks to her
+
+* Ashling goes to talk to Kira about what happened
+* Agree to make a banana split sundae for Ezme later
+
+* Run into remains of a landslide
+* Kira carries some people up
+* Egrette, Ashling, Ezme, climb
+
+* Run into landslide as it happens
+* Luna tries to summon Gnome, but Ezme destroys the card
+* Kira deflects rocks and Ezme summons a barrier
+
+* Reach troll's bridge
+* Wants things valuable to us
+* Dimitri ends up giving his gold and plays a duet on a lute
+
+=== Session 52 ===
+* Descend into vale before the dragon's den
+* Encounter Hemet's guardian, who doesn't want us to go through
+* Ezme attacks him
+* Party kills him, and he turns into fire and flies into the cave
+
+* We go the long way into the den, avoiding traps mentioned by the map
+* Come into large cavern with Hemet sleeping on treasure
+* Approach, Hemet summons scrolls while sleeping
+* Kira tries to ask about what caused the previous apocalypses
+* Hemet gives a scroll describing the report of Project Eve, that created Sarah
+* Hemet wakes up, and party starts to talk to him
+
+* Ashling, Ezme, Egrette sneak off to look for the opal
+* They find a super clean room
+* A cube drops from the ceiling
+* They break into a chest that is empty and trapped
+* They find an opal on a pedestal
+* Ashling determines it is trapped and they sneak the Opal off
+
+* Hemet is suddenly attacked by a lance of flame that somehow hurts him
+* Source is a robed figure, the Archpyromancer of Cilonia
+
+=== Session 53 ===
+* Hemet turns around and goes for waterfall in back of chamber
+* Ashling detects the robed figure
+* Hemet flees
+* Party regroups and figure approaches
+* Ashling thinks it is Auriel, challenges her
+* Auriel blasts Kira and Luna then starts beating on Kira
+* Auriel pretty much annihilates the party
+* After significant losses and talking we manage to talk her down
+* Party runs away through waterfall
+* Ashling explains who Auriel is
+* Party travels back to Prairebrook
+* Kira and Luna going to return to Warriors of Light to talk about accompanying Ezme to the Old Kingdom of Thrice
+
+* Diana at a mysterious abandoned castle
+
+==== Chapter 7: Goodbye, Yesterday! Hello, Sunshine! (第七章「さようなら昨日、こんにちはサンシャイン<!--今日ハレの日、ケの昨日-->」) ====
+
+=== Session 54 ===
+* Kira and Luna arrive at the construction camp
+* Collect warriors of light
+* Take them to go meet with Ezme
+* Failure...
+* Tried to convince Meridia to at least travel with Ezme for a while and make a decision later
+* Kira spars with Ashling to learn teleport
+* Ashling and Meridia spar, talk about meaning of life
+* Arrive at Opalico Port City
+
+=== Session 55 ===
+* Large waterfront park with statue of Undine
+* Dimitri goes to organize party to work at a nice club "Wett" to make some money
+* Dimitri convinces owner "Squid" to let us perform for money
+
+* Ashling and Ezme talk
+* Ezme tells the story of St. Esmeralda, who slew wicked creator of the world
+
+* Ashling and Kira work together to make some food before the main club events
+
+* Dimitri plays well
+* Ashling and Meridia use Swords Dance
+* Kira does cooking, Ezme appears to try to help
+* Luna works herself to death
+
+* Dimitri meets with Cid to discuss travel to Heljiki
+* Cid says we'd need a fast ship
+* But he wants to meet with Undine
+
+* Kira goes into the abyss to retrieve Shade with Luna's help
+* Kira appears in the club with Shade
+
+* Halina muses about the plans of Sarah (?) working against the party
+
+=== Session 56 ===
+* Luna talks to Mimi
+
+* Dimitri goes on a date with Cici
+* Talk about the arch mages, and what her parent's were like
+* He kisses her
+
+* Ashling goes to meet Ezme at waterfront to gift her banana split
+
+* Ashling/Meridia/Ezme/Luna go to get dolls
+
+* Kira/Ezme make chicken alfredo for Meridia, eat it together
+
+* Luna/Dimitri go to talk to Cid
+* Arrange for passage to Heljiki
+
+* Imperial specialists arrive on a fleet of airships along with Malcolm, Auriel, Altiar, Magus
+* Malcolm masks up and leaps off the ship
+* Party starts running towards the ship
+* Ashling and Kira hang back to hold off enemies as party goes to get Cid ready
+* Ashling and Kira encounter Altair and Magus on an airship
+* Party boards the Blackjack, Luna calls Undine, Undine calls gigantic sea serpent "lyndwyrm"
+* Ashling and Kira escape the airship as the lyndwyrm starts destroying airships
+* Party collects Ashling and Kira from ocean
+
+==== Chapter 8: Kingdom in Shadow: Prelude (第八章「陰の王国・前奏」) ====
+
+=== Session 57 ===
+Opalica
+* Maelstrom of darkness, burning airship wreckage at Opalica
+* Malcolm stands before the lyndwyrm
+* Summons giant vorpal blades of darkness to kill (?) it
+Blackjack - On the Inland Sea
+* Blackjack flies through ocean at superspeed
+* Dimitri negotiates his chimera landing on the ship to come with
+Clock Tower
+* Large skeletal figure commands other normal skeletons to collect the chosen and eliminate his companions
+* Woman comes out after they leave, says she doesn't intend to give up the chosen no matter what
+Blackjack
+* Cici/Mimi/Egrette/Halina will not be coming to Thryce
+* Dimitri talks to others about surviving while we are gone
+* Ezme sneaks into bed with Kira, says she is not going to give up on him anymore
+* She is actually happy
+Approaching Helji(n)ki
+* Looking for the "Holy Lance" of Andelian legend, wielded by Esmerelda (Binder of Fate, True Northern Star) to slay the goddess who created the universe
+* Goddess appeared to Esmerelda as a mirror of herself
+* Allegedly body of goddess fell to Thryce
+* Meridia wonders why we don't just work with the Empire, considering the problems opposing them has brought us
+Heljinki
+* Cid delivers us to the port
+* Go into town with a spirit guide
+* Legends of the goddess is only an Andelian myth
+* Gang called "Burning Hand"; never seen, but people who piss them off get screwed ("Freedom, Pride, Progress")
+* Witness a procession of cloaked figures (ice spirits?) with floating swords, freezing ground behind them
+* Called them Liches and Wraithguards, members of the Burning Hand
+* Ash Wyrm cult has a church marked with a giant skull
+* Go there, they seem to notice Kira (Arnaundus?) and escort us inside
+* Ash Wyrm High Priest says Kira and the Black Princess must take the sword to the Source and destroy the chains on the world's fate
+* Claims Thryce is "alive" and the capital is its "heart"
+* Go back to city
+* Run into Penelope on the streets, who doesn't remember us
+* She gives a reading for money
+* Meet with some "tour guides" who claiming to operate a government stall with free maps
+* Give us a map to the capital
+Hills outside Heljinki
+* Head outside, enter the Churning Bog
+* Run into weird pirate guy who gets Dimitri to stay
+* Party runs into cockatrice which is fought off eventually
+
+=== Session 58 ===
+* Encounter 6 mermen
+* Tough fight, but managed to make them flee by cutting their arms off
+* Escaped bog
+* Heading to nearby town "Yahn"
+Elsewhere, fancy bedroom
+* Mea lounging on bed
+* Diana is pacing
+* Skeleys arrive, report failure
+* Mea is not happy
+* Diana says the castle needs to be prepared for guests (Kira)
+Ruins of Yahn
+* Ancient mostly-gone corpses line the street
+* Enter fairly good-looking church
+* Ashling and Meridia go off to clean their clothes
+* Ashling kisses Meridia
+* Dimitri goes upstairs, is accosted by skeleton who wants to serve him food like a restaurant
+* Eats some nice-looking food that poisons him and steals a music box
+* Kira and Ezme go outside to watch the moon
+* Ezme asks Kira if he still loves her
+* Luna tries to heal Dimitri's food poisoning
+To the capital
+* Large layered city like Coruscant
+* Cthulhu monster attacks fluffy
+* Pairs of warg/gargoyle monsters flank us
+* Huge black snake dragon appears out of center of city after we defeat enemies
+* Run away to palace
+* Ezme stays behind and pets the snake, which is deferential to her
+* 3 skeleys appear as butlers to greet us
+In the pit
+* Mea stands in the darkness with Diana
+* Diana praying to goddess for power
+* Mea detects Penelope sneaking about, announces to Diana
+
+==== Chapter 9: Kingdom in Shadow: Symphony of the Moonlight Redux (第九章「陰の王国・月光の夜想曲・再び」) ====
+
+=== Session 59 ===
+* Follow skeleys through hall
+* Ashling spots some armored figure watching us from outside
+* Ezme tells Kira he can come with her to the pit, saying she probably shouldn't keep secrets from him
+* As Ezme/Kira return, skeleys pull a lever to collapse the floor of the hall
+* Everyone falls down, Kira floats down
+* Sarah grabs Ezme as she falls and pulls her somewhere else
+* Ezme apologizes to Sarah, then Sarah suddenly tries to kill Ezme
+* Party lands in some basement or something
+* Ashling falls on Meridia (unfortunately armor is the in the way)
+* Party discovers Ezme is gone, Ashling freaks out
+* Ren is pretty beat up and is unconscious, Luna is very worried and tries to help him
+* Diana appears and takes us to our individual rooms
+* Ashling and Meridia try to find out what happened to Ezme, she is said to be fine according to the spirits
+* Everyone gets bathed and dressed up, Kira is 'bathed' by Mea with her wire brush, Luna watches over Ren
+* Penelope accosted by Mea to do something, but is interrupted by Diana stealing Penelope to do something else
+* Ashling interrogates some spirit about the castle and Diana, Diana 'wants to conquer the world' among other things
+* Mea steals Ren from Luna and dances with him, before Dimitri 'steals' Mea away
+* Mea convinces Dimitri to go to his room whereupon she makes out with him, then steals his life force
+* Dimitri tries to leave and get to the others, but ends up collapsing in a hallway
+* Penelope collects Kira to go meet with Diana, Kira tries to talk with her about Mea and Ezme but Diana doesn't like that, she just wants to be with Kira
+* Ashling tries to sneak out, gets lost, finds a pit with the black serpent on it, Mea finds her too and Ashling avoids death by pretending she was trying to find the restroom
+* Mysterious black-armored person takes Dimitri to his bed
+* Eventually party finds Dimitri 'dead', Luna can't help him and is freaking out about it
+* Mea, Penelope and Ezme grab Kira and take him back to the dance room, but don't find anyone so they go to Dimitri's room
+* Penelope steals Dimitri's life force from Mea because she was interested in it
+* Kira & co. get back to Dimitri's room, Mea tries to kick everyone out so Dimitri dies (but so Kira doesn't think it is her fault)
+* Penelope realizes she has Dimitri's life force and kisses him to give it back, keeping him from dying
+* Ashling stands guard at Dimitri's room
+* Kira and Ezme go Kira's room, Ezme continues to act very meek and obedient
+* Calls in Luna who is unable to help Kira with scanning Ezme, Kira tries to comfort her before sending her back to Ren
+* Calls in Ashling who figures out that Ezme seems to be part of Thryce, she has no 'barrier' between her mana and the area's mana essentially
+* Kira and Ashling discuss what happened to Ezme, Ashling agrees to try to scan Penelope, Mea, and Diana to see if she can find anything weird out about them
+* Dimitri wakes up and (tries to) tells Meridia that Mea was responsible for what happened to him
+
+=== Session 60 ===
+* Dinner begins, Ashling talks to some werewolf and drinks a keg, somehow not getting smashed
+* Dimitri is given mysterious vial by Mea, seems to help him
+* Ren continues to be charmed by Mea, which is making Luna super jealous
+* Ashling scans, Diana is clearly the source of all the corruption, etc.
+* Diana says the serpent thing fell to Thryce maybe a week ago right before she arrived, even though legends say otherwise
+* Dinner ends, Diana announces that Kira/her are going to have a ceremony 
+* Luna takes Ren and tells him to not ever look at Mea again, that she's trying to steal him away, then kisses him
+* Ashling/Meridia decide to sneak to the pit and try to figure out if something interesting is there
+* Kira gets taken by Diana to her room, Kira suggested they walk around the castle and go to the pit
+* Diana is disappointed but goes along with it
+* Luna finds out via Minaemo that what is going with Ezme is that 'her personality has been punctured and they are the same' kinda deal
+
+* Rest of party is looking for info about what happened to Thryce when Diana arrived
+* Ashling and Meridia go to the pit, see two serpents fighting
+* One is normal-looking and other is corpse-like
+* Ashling jumps into one of the serpents and slides down into the crater
+* She encounters the armored figure in the darkness
+* Claims to be "God" or "Esmeralda"
+
+* Diana takes Kira to pit
+* She bows to the curled serpent, and says she brought their "champion"
+* Ashling sneaks up on them
+* Approaches serpent, tries to interact with it
+* Uses her roses to try to form a bond with the creature
+* Ashling wakes up in the pit again, finding the corpses of Ezme and Sarah
+* Inspects corpses, sees a black spear in the ground
+* Touches the spear
+* Ashling being choked by black serpents from Ezme
+* Ashling's mother being beaten by her father
+* Ezme finds Ashling in the castle gardens, tries to get her to steal a sundae
+* Being accosted by modern military people, put into medical restraint before "termination"
+* Ashling's link with the serpent breaks, and she finds herself again in the pit
+* Party meets up with Ashling
+* Take her to room and discuss what happened
+
+* Luna taken to go meet with Diana for something regarding the ritual
+* Run into Mea and Ren kissing
+* Mea says Ren picked her over Luna
+* Luna is led away by Penelope
+
+* Ashling, Kira, Ezme, Dimitri go into pit
+* Ezme is able to fuse with the serpent easily because "they are already the same"
+* Snake eventually moves at attack, forcing flight
+
+* Party goes to meet at the ceremony
+* Ren stumbles in and dies
+* Diana bites and kills Kira
+* Dimitri grabs Luna and flees
+* St. Esmeralda appears to try to fight Diana
+* Party flees to the pit looking for Ezme
+* Diana and Mea surround the party
+* Serpent smashes through the building and St. Ezme leaps down again
+* Diana shouts she was sorry and just wanted to be with Kira
+* Party runs again, Diana ambushes again
+* Lead a chase throughout the city
+* Mea and Diana are being controlled or influenced by something
+* Diana calls out with the memories of others
+* Fluffy darts in at last second and is able to carry Ashling, Dimitri, and Luna away
+* Blackjack approaches Heljinki and hears Fluffy's cry
+
+===== Book 4 (第四巻) =====
+
+==== Chapter 1: Coming of Age: Childhood's End (第一章「成人・幼年の終り」) ====
+
+=== Session 61 ===
+Capital City of Thryce
+* Kira sitting on a couch with his harem
+* Diana asks Kira to go and collect Mea, as their work is to continue
+* Kira finds Meridia's corpse, still laying where she had died
+* Mea had given Kira a blue flower to resurrect Meridia
+* Meridia wakes up, seeming rather zombie-like
+* Kira has Mea kiss the life back into Ren
+* Diana aims for Heljinki to get everyone there to submit
+* Kira is going to be the leader of the operation
+
+Countryside near Opalico
+* Ashling and Egrette looking over the city, preparing to split apart and head out on their own journeys
+* Ashling travels the world, training
+* Akihiko would be proud
+* Ashling groups up with terrorist organization, hoping she will get to fight Altair
+* Altair and Ashling ride an airship, and Ashling asks about her scythe
+* Altair says she could try to curry favor with the Emperor, or seek out a legendary ogre blacksmith
+
+To Andeland
+* Dimitri takes Luna & co. traveling
+* Re-meets with Ezri, sees his daughter Holly
+* Luna is taking care of Halina 'cause she has no money
+* Dimitri slowly making plans to become a Merchant-King, rebuild Andeland and getting trade going between Andeland and Cilonia
+* Luna is occupying herself with books and trying to help the suffering people of Andeland
+* Halina tells Luna about her life before she became a ghost
+* Luna leaves
+* Halina drinks a bunch of poisonous rainwater
+
+Kira
+* Kira plans the operation to get boats from Heljinki
+* Ezme is pretty sick, dying because she doesn't have her spirit
+* Kira tries to negotiate for Ezme's soul from Diana, but is rejected
+
+Ashling
+* Altair takes Ashling to meet with the Emperor
+* Malcolm is there, watching
+* Ashling runs into Ariel
+* Ashling apologizes to Melandra for what happened Ezme
+* Ashling goes to meet the Emperor
+
+Luna
+* Halina very ill from drinking the poisoned water
+* Luna gets supplies from Dimitri, taking Halina to Edinbough
+* Summons an earth spirit yeti and help her come down
+* It asks Luna to bring it to meet with Nymph (!) in the Valley
+* Luna agrees, but is worried about Nymph doing something to the spirit so she will come with
+
+Dimitri
+* Travels to Newport to try to work on economy
+* Signs up with a guy working on shipping, making deals for him
+* Does very well
+* Hears rumors that Heljinki has stopped sending boats or anything to Newport
+
+Kira
+* Preparing to summon Lilith outside Heljinki
+* Ash Wyrm cultists appear and try to disrupt the ritual
+* Kira & co. forced to retreat to Heljinki
+* Secretly Mea appeared to be revived the dead to prevent the ritual from working
+* Kira descending to the cult's church, and finishes all of them off
+* Summons Lilith in her full glory, and marches into Heljinki
+
+=== Session 62 ===
+Kira
+* Marches to the town square
+* Kira announces his intent to acquire boats
+* Some dude challenges Lilith's identity
+* Kira "convinces" them, Lilith summons elementals from hell
+* Kira challenges Burning Hand to appear
+* Some ice elementals appear
+* Kira tells them what he wants
+* They agree not to interfere with Kira making any deals
+* Kira goes to speak with boat owners
+
+Ashling
+* Runs into Magus
+* Magus offers Ashling a job to prove herself to the Emperor
+* Requests an assassination of a powerful mana adept
+* Ashling travels to border, looking for target
+* Celica finds Ashling bathing in stream, taking her scythe and rose
+* Ashling decides eventually to help her without killing her
+* Ashling cuts some kind of gem from inside Celica to deliver to Magus as proof of her death
+
+Dimitri
+* Dimitri plans to travel to Hisinia to try to get more trade going without alerting the Cilonian government
+* Found catgirl Robin a job working at a clothier's shop
+* Cici tells Dimitri his daughter has the Potential
+
+Luna
+* Luna arrives in Edinbough
+* Gets food and lodging for Halina
+* Talks a little about her journey, but doesn't say much
+* People suspect Kira and Ren are dead
+* Luna makes vessel for the earth spirit
+* Leaves Halina for a short while to go to meet with Nymph
+* Nymph tells Luna she needs to be stronger for her friends' sakes
+
+Ezme
+* Ezme and Sarah make it out of the pit
+* Ezme and Sarah sit on the edge of the pit
+* Ezme starts laughing abruptly, says she thought she was going to die in the pit
+* Ezme takes Sarah to keep going, and Sarah starts to cry
+* Ezme and Sarah walk off into the dawn with the spear
+
+Kira
+* Tries to negotiate for ships
+* Ends up attacking some guys and killing people
+* Kira explains what he did and manages to get the survivors in line
+
+Ashling
+* Leaves gem with police for Magus
+* Goes looking for ogre smith
+* Forges it, sacrificing her mana abilities to make it stronger
+* Goes looking for a monster to fight
+
+Luna
+* Halina tells Luna as long as Luna is alive she will be suffering
+* Halina disappears outside of Sinobi
+* Luna runs off to find her
+* Halina shoots herself
+* Luna gives her life to save Halina
+* Halina is surprised and angry that Luna discarded her life when she was trying to save her
+* Melkos told Luna she should not have run from her friends and her responsibilities
+
+Dimitri
+* Arrives in Hisinia, starts working to try to get trade going
+* Celica ambushes him and gets him to send her to Andeland
+* Dimitri prepares to leave, sees a fleet of possible pirates approaching
+* Gets the hell out
+
+Kira
+* Sailing in on fleet on ships with demonic army
+* Suddenly, Ezme shouts for them to stop
+* Ezme appears, demons and spirits give her wide berth
+* Ezme kisses Kira, restoring his life and disappearing the demon army
+* Sarah appears, says she can't let Ezme go on
+* Sarah tries to summon twin dragons, but Ezme summons better twin dragons
+* Tell Sarah she can't win with power, and she gives up
+
+Dimitri
+* Trying to evacuate people
+* Sees Undine propelling the ships
+* Dimitri runs to meet Ezme and the others
+* Party will split up, with Kira and Ren going to meet Luna while the others go to look for Ashling
+
+Ashling
+* Traveling to the Behemoth's lair
+
+==== Chapter 2: ? (第ニ章「？」) ====
+
+=== Session 63 ===
