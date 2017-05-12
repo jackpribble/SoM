@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-11T17:02:35-07:00
+
+====== Items ======
+
+==== Equipment (装備品) ====
+
+=== Weapons (武器) ===
+
+== Arnaundus: The Spirit Coil (スピリット・コイル「アルナンダス」) ==
+Mysterious mana-controlling blade found in the ruins west of Sinobi and the Arctus River, left by the [[Characters:Malcolm Andegrist|stranger from 3 years ago]].
+
+Glows with power. Hopefully it's not radioactive.
+
+* Attack 1
+* Unique Ability: After drawing in the life force of a slain creature, gain an additional level of Attack until the end of combat (doesn't stack)
+* Trigger (Must be at 0 Health)
+
+Desperation Blaze|kanji=壊棄炎撃（えきえんげき）|hit=－|dx=－|aff=Fire|perks=Effective 4, Area of Effect 3|penalties=Ammunition 3, Break, Open to Attack|cost=0
+
+== Seals (御札) ==
+Enchanted paper used as a magical catalyst. They can ward off evil or cut like knives.
+
+Also capable of giving severe paper cuts, so handle with care.
+
+== The Fist of God (ゴッド・フィスト) ==
+Gold staff topped with an eagle's wings. It was won by Prince Malcolm from Hanada of the empire, and it now used by Ezme.
+
+Good for killing Demon Kings, samurai, and wrestling gorillas.
+
+=== Miscellaneous (その他) ===
+
+== Ashurn: The Master Key (マスター・キー「アッシャーン」) ==
+A white glove marked with a ᛞ (dæg) rune on the back. From the wrist springs a length of cloth that wraps about the forearm. It was forged by Becmi Raavenvall, the King's brother in-law and [[Characters:Esmeralda Andegrist|Ezme]]'s uncle. Can absorb a spell (e.g., illusion) into æther for storage, then you can emit it back out later.
+
+Nickname: the "Sorcerer's Glove".
+
+Doesn't actually unlock anything.
+
+== Nereid's Veil (ネーレーイスの首飾り) ==
+The necklace is made of large brown lacquered wood beads. In the center is a thin wood seal with blue glyphs in the language of water. The seal bears a prayer that protects against fire. The seal is said to be blessed by the water goddess Undine herself.
+
+* Resist Fire 1
+* Vulnerability Water 1
+* Immune to Fire (Can only be against one source of damage before Undine has to recharge the blessing.)
+
+== All-Seeing Eye (全能の眼) ==
+A beautiful silver tiara decorated with a plethora of diamonds. There is a large sapphire in the center of the tiara that, with the diamonds, looks like a large eye. This artifact is sought by many and is said to allow a woman to see into and control the hearts of men. In Ezme's experience the use of the artifact on a person leaves them with an obsessive fascination with her. Because of this, she only uses it sparingly. When she does employ it though, it has allowed her to have complete control over the actions and thoughts of her victims for a short time.
+
+== Everliving Flame (永遠の焔) ==
+A mystical flame prophesied to go out when Salamandra awoke, symbolizing the approach of the apocalypse. Kira and company have managed to preserve it, the flame now housed in their lantern.
+
+== Aquamarine Seal　(水の契約札) ==
+Blue seal marked with a rune of water symbolizing the pact with Undine.
+
+One of the 4 great seals that protect the world. Don't break it!
+
+== Ruby Seal　(大地の契約札) ==
+Red seal marked with a cat's paw rune symbolizing the pact with Gnome.
+
+== Diamond Seal　(命の契約札) ==
+Golden seal marked with a rune of life symbolizing the pact with Dryad.
+
+== Moonstone Seal　(月の契約札) ==
+Silver seal with a rune of the moon written on it, symbolizing the pact with Luna.
+
+== Garnet Seal　(炎の契約札) ==
+Red seal with a rune of flame written on it, symbolizing the pact with Salamandra.
+
+== Amethyst Seal　(闇の契約札) ==
+Purple seal with a rune of darkness written on it, symbolizing the pact with Shade.
+
+== Opal Seal　(風の契約札) ==
+Veridian seal with a rune of air written on it, symbolizing the pact with Slyphid.
+
+==== Consumable ====
+
+=== Recovery (回復) ===
+
+== Miracle Powder (奇跡の粉) ==
+Stored in a pot. Restores Endurance (not Reserve Endurance) to maximum.
+
+Don't give to small children!
+
+== Water of Life (生命の霊薬) ==
+Potion with miraculous healing properties. Restores the dead to life.
+
+Unfortunately doesn't also grant immortality. Better get to work finding those Dragonballs™...
+
+=== Miscellaneous (その他) ===
+
+== Red Dream Tea (赤き夢の茶) ==
+Some red tea.
+
+Despite it's appearance, it isn't actually blood.
