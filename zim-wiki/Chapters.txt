@@ -9,12 +9,12 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 ==== Chapter 1: Coming of Age (第一章「成人」) ====
 
 === Session 1 ===
-* [[Characters:Luna|Luna]] and [[Characters:Kira|Kira]] help out around [[Locations:Sinobi|Sinobi]]
+* [[Characters:Luna|Luna]] and [[Characters:Kira|Kira]] help out around [[Locations|Sinobi]]
 * [[Characters:Melkos|Melkos]] tells them [[Characters:Lauren|Ren]] was seeking them out for a mysterious reason
-* Luna and Kira meet with Ren, who wants to head west across the [[Locations:Arctus River|Arctus River]]
+* Luna and Kira meet with Ren, who wants to head west across the [[Locations|Arctus River]]
 * Luna summons the spirit of the Arctus River to locate a crossing
 * The party makes it across the rapids
-* Ren shows Kira tracks of a bull [[saurgon]] he found nearby
+* Ren shows Kira tracks of a bull [[Adversaries|saurgon]] he found nearby
 * Party goes to the ruins
 * Mysterious message cardinal directions NSWNWSWNE
 * Followed directions through illusion to courtyard hidden in ruins
@@ -22,7 +22,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Encountered bull saurgon in the temple
 * Solved invisible wall puzzle
 * Solved sliding pillar puzzle
-* Found [[Items:Arnaundus, the Spirit Coil|magic sword]] left by [[Characters:Malcolm|the stranger from 3 years ago]]
+* Found [[Items|magic sword]] left by [[Characters:Malcolm Andegrist|the stranger from 3 years ago]]
 * Returned to Sinobi
 * Melkos sent Luna and Kira north to Edinbough to discover the truth behind the sudden appearance of hellish knights
 * Invited Ren to come along
@@ -31,17 +31,17 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 
 === Session 2 ===
 * Heading north to Edinbough through the forest
-* Discover destroyed cart heading from Sinobi to [[Locations:Edinbough|Edinbough]]
+* Discover destroyed cart heading from Sinobi to [[Locations|Edinbough]]
 * Kira discerns in spite of himself that it is Yarl's cart
 * Yarl appears, and hurries us off the path
-* They were attacked by a [[vennock]] (kind of dargon)
+* They were attacked by a [[Adversaries|vennock]] (kind of dargon)
 * Agree to look for Yarlson and their ox
 * Found Yarlson leading a band of monkeys that stole things
 * Intimidated him into going back to his family
 * Searched for ox and chased after it
 * Ren and Kira subdue the ox
 * Find the wheel, return everything to the family
-* Received [[Items:Miracle Powder|Miracle Powder]]
+* Received [[Items|Miracle Powder]]
 * Attacked by the vennock
 * Kira suffers injuries, and feels the power of the sword gathering mana, but doesn't use it
 * The sword glows an eerie crimson while Kira is unconscious
@@ -65,7 +65,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Encountered the hell knights
 * One had a magic pendant with some kind of illusory magic
 * Luna identified it and Ren works his tricks to get it out of the area
-* Revealed knights as ordinary soldiers from the northern kingdom of [[Locations:Andeland|Andeland]]
+* Revealed knights as ordinary soldiers from the northern kingdom of [[Locations|Andeland]]
 * Princess Esmerelda there had sent the soldiers on a journey to find Kira by the sword
 * Ren goes back to Edinbough, then to Sinobi to report, then intends to return
 * Ren and Luna agree to head to Andeland
@@ -104,7 +104,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Cloaked figure hires "Handy Joe" of the Ash Bandits to capture Ezme and the Spirit Coil
 * Another cloaked figure (Ezme herself) tells "Handy Joe" of Ezme/Arnaundus' location
 * Go to a hot spring while Ezme leaves to collect stuff
-* Ezme comes back with a [[Ash Wyrm]] and supplies
+* Ezme comes back with a [[Adversaries|Ash Wyrm]] and supplies
 * Headed into the Badlands
 * Figures watching from behind as we ride through the Badlands
 
@@ -195,7 +195,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Strange room with many paintings, hangman's noose with cultist
 * Found another bust in basement, used it to get past dining hall prime
 * Found new room that looks like some kind of study with various mechanisms
-* On the desk is [[Items:Ashurn, the Master Key|Ashurn, the Master Key]]with notes about its purpose
+* On the desk is [[Items|Ashurn, the Master Key]] with notes about its purpose
 * Made by the same guy who created Arnandus
 * Usable to store spell mana as æther that can be used later
 * Started using glove to pull apart the illusion magic
@@ -2197,7 +2197,7 @@ Kira
 
 Dimitri
 * Trying to evacuate people
-* Sees Undine propelling the ships
+* Undine propelling the ships
 * Dimitri runs to meet Ezme and the others
 * Party will split up, with Kira and Ren going to meet Luna while the others go to look for Ashling
 

@@ -1,0 +1,72 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-11T17:15:29-07:00
+
+====== Mana ======
+**Mana** (マナ //mana//) or **pure mana** (清まるマナ //kiyomaru mana//) in contrast to corrupted mana, is magical energy used to cast spells and perform other feats of magic. Using mana for anything significant or complex requires an iron will and determination; people with such talents are referred to as **mana adepts** (マナ使い //mana-tsukai//).
+
+Mana is necessary to the cycle of life. Pure mana becomes sustaining life energy, and life energy flows back into the world as pure mana. Corrupted mana cannot sustain life, as it cannot become life energy. Life energy can be converted into mana and corrupted though.
+
+===== Corrupted Mana =====
+**Corrupted mana** (濁るマナ //nigoru mana//) is mana whose form has been changed by the intent to destroy. To use mana for destructive purposes, an adept's will must be tuned towards that goal, which will effect the conversion of normal mana into it's "corrupted" form. Only then can the mana be utilized for destruction. The reverse process, purification, is also possible, though rare as creation and healing do not often coincide with the same strong emotions as combat and destruction.
+
+Corrupt mana can effect environmental changes of their own; for example, slaying someone with ice may lead to a blizzard. The higher the emotions of the adept, the greater the effect and the higher the chance of such a change manifesting.
+
+Corrupted mana is called such, because for all accounts it is an unnatural state. The natural cycle dictates that pure mana should become matter, life or energy. These components of the natural world then flow back into pure mana at the end of their respective lifespans. It is the human will and its extraordinary talent for bending mana to its desires that can distort the natural order. Humans can twist mana in such a way that it can be used to achieve goals completely contradictory to its natural purpose. It is in this way that mana can become corrupted, a catalyst for destruction instead of creation. As far as is known mana corruption is a phenomena unique to sentient beings.
+
+===== Esoteric Elements =====
+It is known that mana is the basic material used in the creation of matter, forces both visible and invisible, energy and all other manifestations of the natural elements. It is believed by some that mana is also necessary to create things far more abstract. These few posit that nothing can exist without mana. This includes things like knowledge, dreams, time and the very laws of nature. Dabblers in the more complex forms of mana manipulation such as creating illusions and the altering the human mind can attest to the merits of this theory. It is a possible explanation for the corruption of mana that is necessary to destroy abstract things such as free will. This phenomena can be observed when trying to control the mind of an individual through the use of mana manipulation. If the theory is even partially correct, the discovery of methods to manipulate the metaphysical elements could be humanity's greatest achievement yet.
+
+===== Spirits of Mana =====
+The 16 major spirits of mana are:
+| Name                              | Element       | Title                                       | Pact         |
+|:----------------------------------|:--------------|:--------------------------------------------|:-------------|
+| Undine (ウンディーネ)                   | Water (水)     | Maiden of the Mist (水遠の乙女)                  | Aquamarine   |
+| Lannial the Ice Queen (氷女王ラニアル)   | Ice (氷)       | Disciple of Everlasting Ice (永久氷結使徒)        | Sapphire     |
+| Gnome (ノーム)                       | Earth (大地)    | Servant of Mother Earth (母なる大地のしもべ)         | Ruby         |
+| Nymph (ニンフ)                       | Wild (野性)     | Mistress of the Unchained (混乱を引き起こす荒神)      | Emerald      |
+| Salamandra (サラマンドラ)               | Fire (炎)      | Ruler of Flame (炎を纏う紅の王女)                   | Garnet       |
+| Lilith (リリス)                      | Hellfire (業火) | Ruler of Hellfire (業火を纏う紅の悪魔)               | Mercury      |
+| Sylphid (シルフィード)                  | Wind (風)      | Heavenly Messenger (天の使者)                   | Opal         |
+| Siren (サイレン)                      | Storms (嵐)    | Hammer of Godly Lightning (高き神が振るうえし、紫電の雷)  | Sardonyx     |
+| Shade (シェイド)                      | Darkness (闇)  | Envoy from the Dark Abyss (暗黒の淵よりいでしもの)     | Amethyst     |
+| Diana the Pale Huntress (白狩人ディアナ) | Night (夜)     | Arrow of the Moonless Sky (月無き空の矢)          | Ebony        |
+| Lumina (ルミナ)                      | Light (光)     | Light of Heaven (天地を貫く光)                    | Topaz        |
+| Venus the Fallen Angel (堕天使ビーナス)  | Twilight (黄昏) | Radiant Fury (燦爛たる復讐者)                      | Marble       |
+| Luna (ルナ)                         | Moon (月)      | Night's Beacon (夜の灯り)                       | Moonstone    |
+| Penelope the Witch (魔女ペネローペ)      | Arcane (魔法)   | Commander of the Occult Mysteries (魔の神秘の賢者) | Turquoise    |
+| Dryad (ドラアード)                     | Life (命)      | Source of All Creation (森羅万象の源流)            | Diamond      |
+| Mea the Corrupter (腐敗家メア)         | Death (死)     | Ravager of Heaven and Earth (天を裂け、地を砕ける破壊者) | Lapis lazuli |
+
+
+===== The Evolution of Humanity and the 8 Sins =====
+As humanity progressed from simple tribal units to grand civilizations, so too did its mastery and influence over mana. This evolution can be traced through 8 milestones called the 8 Sins; each sin marking the birth of a new corrupted spirit. These sins are grouped into three major eras. The arrival of the 8th and final sin heralds the completion of the false divinity and humanity's mastery over mana.
+
+==== Original Sin ====
+* **Nymph:** Primal Instincts/Pleasures of the Flesh
+* **Siren:** Entropy/Destruction
+* **Lilith:** Violence/Consumption
+
+==== Lantern and the Cave ====
+* **Venus:** Law/Dogma
+* **Diana:** Repression/Hedonism
+
+==== Enlightenment ====
+* **Lannial:** Ego/Intellect
+* **Mea:** Fatality/Depression
+* **Penelope:** Self-Loathing/Alienation
+
+===== Elemental Relationships =====
+As humans have relationships among each other, so do the elements themselves.
+
+Allied Elements:
+* Fire and Wind
+* Water and Earth
+* Light and Life
+* Dark and Moon
+
+Opposing Elements:
+* Fire and Water
+* Wind and Earth
+* Light and Dark
+* Life and Moon
