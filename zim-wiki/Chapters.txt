@@ -14,7 +14,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Luna and Kira meet with Ren, who wants to head west across the [[Locations|Arctus River]]
 * Luna summons the spirit of the Arctus River to locate a crossing
 * The party makes it across the rapids
-* Ren shows Kira tracks of a bull [[saurgon]] he found nearby
+* Ren shows Kira tracks of a bull [[Adversaries|saurgon]] he found nearby
 * Party goes to the ruins
 * Mysterious message cardinal directions NSWNWSWNE
 * Followed directions through illusion to courtyard hidden in ruins
@@ -34,7 +34,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Discover destroyed cart heading from Sinobi to [[Locations|Edinbough]]
 * Kira discerns in spite of himself that it is Yarl's cart
 * Yarl appears, and hurries us off the path
-* They were attacked by a [[vennock]] (kind of dargon)
+* They were attacked by a [[Adversaries|vennock]] (kind of dargon)
 * Agree to look for Yarlson and their ox
 * Found Yarlson leading a band of monkeys that stole things
 * Intimidated him into going back to his family
@@ -104,7 +104,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Cloaked figure hires "Handy Joe" of the Ash Bandits to capture Ezme and the Spirit Coil
 * Another cloaked figure (Ezme herself) tells "Handy Joe" of Ezme/Arnaundus' location
 * Go to a hot spring while Ezme leaves to collect stuff
-* Ezme comes back with a [[Ash Wyrm]] and supplies
+* Ezme comes back with a [[Adversaries|Ash Wyrm]] and supplies
 * Headed into the Badlands
 * Figures watching from behind as we ride through the Badlands
 

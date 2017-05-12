@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-11T17:39:13-07:00
+
+====== Adversaries ======
+
+===== Beasts =====
+
+==== Dargons ====
+
+=== Bull Saurgon ===
+The bull saurgon is the undisputed king of the jungle. Nothing is higher on the food chain. These terrifying reptiles are sometimes mistaken as on the of the mythical beasts, the invincible dragons.
+
+=== Vennock ===
+This fearsome beast is second only to the bull saurgon in its infamy. They make lethal predators with their agile flying ability and poisonous barbed tail, but they are inherently cowardly. Vennocks will stick to mountainous regions where it is difficult for other predators to reach their nests. They will typically only attack wounded or solitary prey. Unlike other dargons, they do not fear fire. It is rumored though that the vennock is fiercely protective of its barbed tail. Making an attack against the tail in combat with a vennock suffers the attacker a -2 penalty. If a hunter waits to attack when the vennock comes in close to sting her (counterattack), she does not suffer any penalty.
+
+=== Ash Wyrm ===
+Once a rarely seen subterranean creature, the ash wyrm has become a regular feature of the dreary Andelian midlands. Before the war ash wyrms were mostly known to be used to transport ash wights by the enigmatic ash wyrm priests. One of the most unique form of dargon, the ash wyrm burrows through soft ground and primary feeds upon corpses. They can be known to burrow through hard rock and tightly packed earth when under duress. Now that ash wyrms have come to inhabit the surface world, it has been discovered that they have a fast overland travel speed, especially in environments that are difficult for humans to traverse. Ash wyrms have been seen to be tamed by the ash bandits of the badlands to be used to quickly covered the loose red soil of that place.
+
+==== Monkey ====
+Mischievous, rude, and loud, monkeys are a nuisance, but aren't particularly dangerous.
+
+==== Saber Hound ====
+Saber hounds are a rare and powerful bread of canine that thrive in harsh arctic environments. They are powerful pack hunters that use their intelligence and large saber-like
+fangs to make short work of their prey. With patience and skill they can be tamed to be used as exceptional
+hunting companions.
+
+===== Folk of the Land =====
+
+==== Hell Knight (Andelian Knight) ====
+The elite knights of Andeland were a fighting force renowned the world over for their loyalty, discipline and, most importantly, their skill. The knights sent to retrieve Kira for the Princess Esmeralda Andergrist bore an
+enchanted amulet bestowed upon them by the princess herself. The amulet was a parting gift to the princess from her traitorous mother. The amulet caused all to look upon the knights to see them as horrible fiends from the depths of Hell. The knight in turn would see mana adepts as terrible towering savage warriors. Surely this enchantment was a final curse upon the Kingdom of Andeland by the despicable Melandra.
+
+==== Ash Bandit ====
+The end of the war between Cilonia and Andeland was rife with unprecedented destruction in both nations. Hanada bearing Launsha: the Pillar of Heaven descended upon Andeland as Prince Malcolm and the bulk of Andelian forces were at the capital of Cilonia, Tantramal. When Hanada unleashed his blasphemous rage upon the nation of Andeland and thrust it into its current state of darkness, many of the military forces in Andeland chose to desert instead of face the might of the Champion of God. In the nation born from the ashes of the war, these deserters came to serve the former high general Joseph Culamax or Handy Joe. Hard men in a hard place they chose to carve out their own kingdom in the decaying remains of Andeland. Inhabiting the former battlefield at the center of Andeland, the badlands, the men who came to be known as ash bandits split the land in two. Any who live near the the badlands or make the mistake of passing through are prayed upon by these desperate and violent men. They wrap themselves in what scraps of armor and cloth they can find to protect their skin from the harsh environment of the badlands, and they arm themselves with weapons made of the scraps of the war that created them.
+
+==== Handy Joe (Joseph Culamax) ====
+Joseph Culamax, Handy Joe, was formerly a high general in the Andelian army. When things turned grim for Andeland at the end of the war, Joseph chose to take his men and retreat rather than fight a battle he saw no hope in winning. In the aftermath the former general carved out a small kingdom for himself with his small army of ash bandits, former Andelian soldiers, in the badlands of the scarred battlefield in central Andeland. He rules them with an iron fist (knife fist?) and shows no mercy to his enemies (victims). During his long service to Andeland, Joseph sustained many grave injuries. He has had many of his body parts replaced by magitech, including both his hands and one leg. His right hand was replaced with a powered magitech hand and his left hand a powered magitech blade. When the mana of the world was sealed away by the archmages, he lost the ability to use his magitech prosthetics. He has since had a massive crossbow attached to his right hand, but his powered blade still works well even without mana.
+
+===== Spirits =====
+
+==== Lost Souls ====
+
+=== Becmi Raavenvall (Ghost) ===
+The spirit of Becmi Raavenvall was bound to the Raavenvall family manor in the town of Raust after his death at his own hands. Before his demise, Becmi wove a powerful spell around Raust to draw travelers into the city and trap them there. His intent was to help the young queen and her people as much as he could, even if he could no longer remain in the world of the living. His trap would keep the Cilonians once stationed in Newport from marching inland towards the capital. As a spirit he uses the power of the signature illusion magic of the Raavenvall family to maintain his elaborate spells.
