@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-11T17:28:54-07:00
+
+====== Religion ======
+
+===== Cilonia =====
+The dominant religion in Cilonia recognizes that a powerful dragon spirit created the universe, but they worship a different dragon spirit they call God. This god is the king, but not originator, of all creation.

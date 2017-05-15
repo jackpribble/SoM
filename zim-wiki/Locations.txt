@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-11T16:59:39-07:00
+
+====== Locations ======
+
+===== Valley of God (神の谷)=
+A lush rain forest filled with wildlife.
+
+==== Sinobi (セィノビ)==
+A village situated in the Valley of God. Agriculture thrives, and the people live simple and fulfilling lives. The only major source of trade comes from Edinbough, located in the mountains to the north.
+
+==== Arctus River (アークタス・リバー)==
+A grand river flowing from the mountains to the north down past the west of Sinobi. Much of the fertility of the valley owes itself to this ancient river.
+
+===== Edinbough (エディンバウ)=
+The cold, frost-covered town north of Sinobi. One of its major resources comes from the mining operation north of the town, but there are also ample stores of wood. The winter storms are especially fierce, which led to the town festival every year when they come to an end.
+
+===== The Dust Kingdom of Andeland (塵の王国アンデランド)=
+Kingdom north of Edinbough. Named for what remains of the kingdom after their war with the Empire. It is under the curse of Hanada, covering it in eternal dark clouds.
+
+==== Castle Andegrist (アンデグリスト城)==
+A royal castle located in the capital of Andeland.
+
+==== The Badlands (悪地 [バッドランズ])==
+A complete wasteland that sits before the inland sea, it became such thanks to the magical warfare between the kingdom and the empire. Once a portion of the kingdom's land, there are far from enough remaining to claim it as still under any sort of official control. Ash Wyrms and bandits inhabit the land, making travel through a dangerous proposition.
+
+==== Yolan's Crossing (ヨランの交差)==
+Northernmost settlement that can really be considered part of Andeland.
+
+==== Raust (ラウスト)==
+Haunted town in northern Andeland. In fact, it was protected by the illusions of the ghost of Becmi Raavenvall to keep the Empire away.
+
+==== Newport (ニューポート)==
+Northern port town on the former border of Andeland.
+
+===== Cilonian Empire (セロニア帝国)=
+Empire north of Angeland.
