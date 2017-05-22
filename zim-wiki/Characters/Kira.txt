@@ -3,9 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-05-11T22:43:45-07:00
 
 ====== Kira ======
-Created Thursday 11 May 2017
-
-**Kira** (キラ Kira) is a teenager from the village of [[../../Locations/Sinobi.txt|Sinobi]]. He is skilled with hunting spears and carrying heavy objects.
+**Kira** (キラ Kira) is a teenager from the village of [[Locations:Sinobi|Sinobi]]. He is skilled with hunting spears and carrying heavy objects.
 
 Age: 17 (16 at campaign start)
 Birthday: 5月2日
