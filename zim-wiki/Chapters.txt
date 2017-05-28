@@ -298,7 +298,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Spear of Justice attacks!
 * ...and he sinks the damn ship
 
-==== Chapter 6: Odyssey (第六章「<ruby>大冒険<rp>（</rp><rt>オデッセイ</rt><rp>）</rp></ruby>」) ====
+==== Chapter 6: Odyssey (第六章「大冒険（オデッセイ）」) ====
 
 === Session 13 ===
 * Ship destroyed by storm
@@ -473,7 +473,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Ashling acquires its scythe
 * Dimitri grabs gems and crap
 
-== Chapter 10: Schism (第十章「<ruby>分裂<rp>（</rp><rt>シスマ</rt><rp>）</rp></ruby>」) ==
+== Chapter 10: Schism (第十章「分裂（シスマ）」) ==
 
 === Session 23, cont. ===
 * Approach the fortress
@@ -640,7 +640,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Kira has random headache attacks like Cloud w/ Jonathan memories of his talking about spirits being shells and stuff
 * Party leaves the faerie village and heads towards Shrine of Earth
 
-==== Chapter 3: Black Magic Girl (第三章「<ruby>黒魔法少女<rp>（</rp><rt>ブラック・マジック・ガール</rt><rp>）</rp></ruby>」) ====
+==== Chapter 3: Black Magic Girl (第三章「黒魔法少女（ブラック・マジック・ガール）」) ====
 
 === Session 29 ===
 * Return to Prairiebrook
@@ -776,7 +776,7 @@ Creation-Date: 2017-05-10T22:37:59-07:00
 * Meri is convinced to stay
 * Take Pen back to town as cat
 
-==== Chapter 5: Prism of the Heart (第五章「心の<ruby>三稜鏡<rp>（</rp><rt>プリズム</rt><rp>）</rp></ruby>」) ====
+==== Chapter 5: Prism of the Heart (第五章「心の三稜鏡（こころのプリズム）」) ====
 
 === Session 32 ===
 * Heading north to the Temples of Moon and Fire
@@ -1707,7 +1707,7 @@ Following day
 * Luna makes a pact with Sylpheed
 * Corrupted spirits are explained to Sylpheed
 
-==== Chapter 6: Dungeon and Dragon (第六章「ダンジョン<ruby>＆<rp>（</rp><rt>アンド</rt><rp>）</rp></ruby>ドラゴン」) ====
+==== Chapter 6: Dungeon and Dragon (第六章「ダンジョン＆（アンド）ドラゴン」) ====
 
 === Session 50 ===
 * Kira goes to meet with Melandra
