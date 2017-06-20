@@ -2454,7 +2454,7 @@ Temple of Light
 * Find golden handleless door
 * Go through, Dimitri and Kira trip laser beam trap
 * Four muted crystals of red blue green yellow, four murals on the door
-* Creatures: wizard, lady, demon, muscle golem
+* Creatures: wizard (Ramuh), lady (Shiva), demon (Ifrit), muscle golem (Titan)
 * Kira sees four exits are higher up, one on each wall
 * Other platforms have strange devices - pedastals with ship wheels on them, lever above
 * Seem to control the stairs
@@ -2491,7 +2491,7 @@ Temple of Light
 * Head into other rooms on main floor
 * Let the battles begin!
 
-Fire Crystal Grotto
+Fire Crystal Grotto (Beneath the Giant's Tomb)
 * Alien cave of some kind, super hot
 * Blue crystal formations in some spots
 * Other places they are missing, replaced by magma
@@ -2501,7 +2501,36 @@ Fire Crystal Grotto
 * Eventually manage to defeat it - a narrow victory
 * Go to life mana room to rest
 
-=== Session 67 ===
+=== Session 68 ===
+* Rested at life mana room
+* Went to next area
+
+Calamity Core (Beneath the Mechanical Tower)
+* Plated room, pipes along walls
+* Corrupted air room
+* Large pylon lightning rod things in the corners
+* Defeat Ramuh
+* Sleep in life room
+
+(Beneath the Solar Ruins)
+* Looks like a better version of the ruins
+* Full of corrupted earth mana
+* Huge Titan sitting on huge throne
+* Ashling pretty much one-shots the boss
+
+Sparkling Palace (Beneath the Tower of Life)
+* Filled with corrupted water mana
+* Glass room surrounded by what looks like void of night sky
+* Shiva freezes everybody and everyone dies
+* Ezme & Ashling carry people out
+
+On the way to Lumina
+* Main room blue crystal is lit despite losing to Shiva
+* Travelled through open door and into God Machine
+* Shrine of Light sits at the bottom of the Crystal Tower
+* Huge crystal sits in center of shrine, emitting light and light mana
+* Lumina suspended in air above crystal by crystal chains
 
 ==== Chapter 5: Sword of Mana (大五章「マナの剣」) ====
 
+=== Session 69 ===
