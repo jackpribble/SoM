@@ -74,6 +74,9 @@ Purple seal with a rune of darkness written on it, symbolizing the pact with Sha
 == Opal Seal　(風の契約札) ==
 Veridian seal with a rune of air written on it, symbolizing the pact with Slyphid.
 
+== Topaz Seal　(光の契約札) ==
+White seal with a rune of light written on it, symbolizing the pact with Lumina.
+
 ==== Consumable ====
 
 === Recovery (回復) ===
